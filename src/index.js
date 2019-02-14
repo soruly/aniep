@@ -1,14 +1,11 @@
 module.exports = (filename) => {
   if (filename.match(/\W(?:OVA|OAD|Special|Preview|Prev)[\W_]/i)) {
-    return -2;
+    return null;
   }
   if (filename.match(/\WSP\W{0,1}\d{1,2}/i)) {
-    return -3;
+    return null;
   }
-  if (filename.match(/.*(?:Ohys-Raws|Leopard-Raws|ZhuixinFan).*/i)) {
-    return 0;
-  }
-  let num = -1;
+  let num = null;
 
   num = filename.replace(/.+? (\d\d) \[.+/i, "$1");
   if (num !== filename) {
