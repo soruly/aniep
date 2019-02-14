@@ -17,5 +17,5 @@ answerList.forEach((num, filename) => {
   }
 });
 
-console.log(`Passed ${(answerList.size - wrong).toString().padStart(6)}/${answerList.size} testcases (${((answerList.size - wrong) / answerList.size * 100).toFixed(6)}%)`);
-console.log(`Failed ${wrong.toString().padStart(6)}/${answerList.size} testcases (${(wrong / answerList.size * 100).toFixed(6)}%)`);
+console.log(`${(answerList.size - wrong).toString().padStart(6)}/${answerList.size} testcases passed (${((answerList.size - wrong) / answerList.size * 100).toFixed(6)}%)`);
+console.log(`${wrong.toString().padStart(6)}/${answerList.size} testcases failed (${(wrong / answerList.size * 100).toFixed(6)}%)`);
