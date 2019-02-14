@@ -1,0 +1,26 @@
+{
+  "name": "aniep",
+  "version": "0.1.0",
+  "description": "Extract episode number from anime file names",
+  "main": "index.js",
+  "scripts": {
+    "update-testcase": "node test/update-testcase.js",
+    "test": "node test/run-testcase.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soruly/aniep.git"
+  },
+  "keywords": [
+    "anime"
+  ],
+  "author": "soruly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soruly/aniep/issues"
+  },
+  "homepage": "https://github.com/soruly/aniep#readme",
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  }
+}
