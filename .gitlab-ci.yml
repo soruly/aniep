@@ -1,0 +1,11 @@
+image: node:10-alpine
+
+stages:
+  - test
+
+test:
+  stage: test
+  script:
+    - npm test
+  coverage:
+    '/testcases \((\d+?)%/'
