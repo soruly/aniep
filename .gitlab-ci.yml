@@ -8,4 +8,4 @@ test:
   script:
     - npm test
   coverage:
-    '/passed \(\d+.\d+\%\)/'
+    '/All test \(\d+.\d+\%\)/'
