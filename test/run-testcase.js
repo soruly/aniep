@@ -48,9 +48,9 @@ rawAnswerList.forEach((num, filename) => {
 
 const showResults = (numFailed, total, title) => {
   console.log();
-  console.log(`${title} (${((total - numFailed) / total * 100).toFixed(6)}%)`);
-  console.log(`${(total - numFailed).toString().padStart(6)}/${total} testcases passed (${((total - numFailed) / total * 100).toFixed(6)}%)`);
-  console.log(`${numFailed.toString().padStart(6)}/${total} testcases failed (${(numFailed / total * 100).toFixed(6)}%)`);
+  console.log(`${title} (${((total - numFailed) / total * 100).toFixed(4)}%)`);
+  console.log(`${(total - numFailed).toString().padStart(6)}/${total} testcases passed (${((total - numFailed) / total * 100).toFixed(4)}%)`);
+  console.log(`${numFailed.toString().padStart(6)}/${total} testcases failed (${(numFailed / total * 100).toFixed(4)}%)`);
 };
 
 showResults(rawWrong, rawAnswerList.size, "Leopard-Raws + Ohys-Raws dataset");
