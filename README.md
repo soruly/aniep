@@ -11,7 +11,7 @@ npm install aniep --save
 
 ## Usage
 
-```
+```javascript
 const aniep = require("aniep");
 
 aniep("[Leopard-Raws] Yakusoku no Neverland - 04 RAW (THK 1280x720 x264 AAC).mp4"); // return 4
