@@ -8,13 +8,47 @@ const answerList = new Map(
   answerFile
     .split("\n")
     .map((line) => line.split("\t").reverse())
+    .map(([
+      filename,
+      value
+    ]) => {
+      if (value === "null") {
+        return [
+          filename,
+          null
+        ];
+      }
+      if (value.indexOf(",") > 0) {
+        return [
+          filename,
+          value.split(",").map((each) => parseFloat(each))
+        ];
+      }
+      if (value.indexOf("|") > 0) {
+        return [
+          filename,
+          value
+        ];
+      }
+      return [
+        filename,
+        parseFloat(value)
+      ];
+    })
 );
 
 let wrong = 0;
-answerList.forEach((num, filename) => {
-  if (`${getEp(filename)}` !== num) {
+answerList.forEach((answer, filename) => {
+  const ep = getEp(filename);
+  let correct = false;
+  if (Array.isArray(ep)) {
+    correct = JSON.stringify(ep) === JSON.stringify(answer);
+  } else {
+    correct = ep === answer;
+  }
+  if (!correct) {
     wrong += 1;
-    console.log(`Expect: ${`${num}`.padStart(6)} | Got: ${`${getEp(filename)}`.padStart(6)} | ${filename}`);
+    console.log(`Expect: ${`${answer}`.padStart(6)} | Got: ${`${ep}`.padStart(6)} | ${filename}`);
   }
 });
 

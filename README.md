@@ -33,11 +33,11 @@ aniep("[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA 
 // however, OVA with episode number would still return a Number
 aniep("[Ohys-Raws] Amanchu! - 13 OVA (AT-X 1280x720 x264 AAC).mp4"); // return 13
 
-// for joined episode, it returns an array of all episodes
+// for joined episode, it returns an array of Number: the first and the last episode
 aniep("[Ohys-Raws] Idolish Seven - 01-02 (MX 1280x720 x264 AAC).mp4"); // return [1, 2]
 
 // in case there are multiple possible episode number, it returns a string of episodes, using | as separator
-aniep("[Ohys-Raws] Jigoku Shoujo Yoi no Togi - 07(S1-03) (BS11 1280x720 x264 AAC).mp4"); // return "3|7"
+aniep("[Ohys-Raws] High School DxD Hero - 11(10) (AT-X 1280x720 x264 AAC).mp4"); // return "10|11"
 ```
 
 ## Development
