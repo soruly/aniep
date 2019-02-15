@@ -33,6 +33,9 @@ aniep("[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA 
 // however, OVA with episode number would still return a Number
 aniep("[Ohys-Raws] Amanchu! - 13 OVA (AT-X 1280x720 x264 AAC).mp4"); // return 13
 
+// episode preview return episode Number
+aniep("[Ohys-Raws] Tate no Yuusha no Nariagari - 01 Preview (AT-X 1280x720 x264 AAC).mp4"); // return 1
+
 // for joined episode, it returns an array of Number: the first and the last episode
 aniep("[Ohys-Raws] Idolish Seven - 01-02 (MX 1280x720 x264 AAC).mp4"); // return [1, 2]
 
