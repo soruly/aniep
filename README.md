@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/soruly/aniep.svg)](https://github.com/soruly/aniep/blob/master/LICENSE)
 ![npm](https://img.shields.io/npm/v/aniep.svg?style=flat)
 
-Extract episode number from anime file name
+Extract episode number from anime file name (In progress, see % accuracy above)
 
 ## Install
 
@@ -18,9 +18,26 @@ npm install aniep --save
 ```javascript
 const aniep = require("aniep");
 
+// leading zero is removed, returning a Number type
 aniep("[Leopard-Raws] Yakusoku no Neverland - 04 RAW (THK 1280x720 x264 AAC).mp4"); // return 4
+
+// floating point is supported
 aniep("[Leopard-Raws] Youjo Senki - 06.5 RAW (ATX 1280x720 x264 AAC).mp4"); // return 6.5
+
+// when it cannot find any episode number, it returns null
 aniep("[Leopard-Raws] Sora to Umi no Aida Special (SUN 1280x720 x264 AAC).mp4"); // return null
+
+// similarily, OVA also returns null
+aniep("[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC).mp4"); // return null
+
+// however, OVA with episode number would still return a Number
+aniep("[Ohys-Raws] Amanchu! - 13 OVA (AT-X 1280x720 x264 AAC).mp4"); // return 13
+
+// for joined episode, it returns an array of all episodes
+aniep("[Ohys-Raws] Idolish Seven - 01-02 (MX 1280x720 x264 AAC).mp4"); // return [1, 2]
+
+// in case there are multiple possible episode number, it returns a string of episodes, using | as separator
+aniep("[Ohys-Raws] Jigoku Shoujo Yoi no Togi - 07(S1-03) (BS11 1280x720 x264 AAC).mp4"); // return "3|7"
 ```
 
 ## Development

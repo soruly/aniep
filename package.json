@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "update-testcase": "node test/update-testcase.js",
+    "quick-test": "node test/run-quick-test.js",
     "test": "node test/run-testcase.js"
   },
   "repository": {
