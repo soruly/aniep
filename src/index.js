@@ -1,10 +1,4 @@
 module.exports = (filename) => {
-  if (filename.match(/\W(?:OVA|OAD|Special|Preview|Prev)[\W_]/i)) {
-    return null;
-  }
-  if (filename.match(/\WSP\W{0,1}\d{1,2}/i)) {
-    return null;
-  }
   let num = null;
 
   num = filename.replace(/.+? (\d\d) \[.+/i, "$1");
@@ -37,12 +31,28 @@ module.exports = (filename) => {
     return parseFloat(num);
   }
 
+  num = filename.match(/.+? - (\d+)[-~](\d+).+/); // - %num-%num
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ];
+  }
+
+  num = filename.match(/.+? - (\d+)\((\d+)\).+/); // - %num(%num)
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ].sort().join("|");
+  }
+
   num = filename.replace(/.+? - (\d+\.*\d+).{0,4}.+/i, "$1"); // - %num
   if (num !== filename) {
     return parseFloat(num);
   }
 
-  num = filename.replace(/.+? (\d+\.*\d+).{0,4} .+/i, "$1"); // %num
+  num = filename.replace(/.+? (\d+\.*\d+)[^xpP\]]{0,4} .+/i, "$1"); // %num
   if (num !== filename) {
     return parseFloat(num);
   }
