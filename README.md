@@ -3,9 +3,21 @@
 
 Extract episode number from anime file name
 
+## Install
+
+```
+npm install aniep --save
+```
+
 ## Usage
 
-TBC
+```
+const aniep = require("aniep");
+
+aniep("[Leopard-Raws] Yakusoku no Neverland - 04 RAW (THK 1280x720 x264 AAC).mp4"); // return 4
+aniep("[Leopard-Raws] Youjo Senki - 06.5 RAW (ATX 1280x720 x264 AAC).mp4"); // return 6.5
+aniep("[Leopard-Raws] Sora to Umi no Aida Special (SUN 1280x720 x264 AAC).mp4"); // return null
+```
 
 ## Development
 
