@@ -1,6 +1,14 @@
 module.exports = (filename) => {
   let num = null;
 
+  num = filename.match(/^(\d{1,3})(?:-|~)(\d{1,3})\.mp4/); // 1.mp4
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ];
+  }
+
   num = filename.match(/第 *(\d+) *(?:集|話|话|回)/); // 第01集
   if (num !== null) {
     return parseFloat(num[1]);
@@ -81,9 +89,9 @@ module.exports = (filename) => {
     return parseFloat(num);
   }
 
-  num = filename.replace(/^(\d+\.*\d+).{0,4}.+/i, "$1"); // start with %num
-  if (num !== filename) {
-    return parseFloat(num);
+  num = filename.match(/^(\d{1,3}(?:\.\d)*)[^\d]/); // start with %num
+  if (num !== null) {
+    return parseFloat(num[1]);
   }
 
   num = filename.match(/.+? - (\d+)[-~](\d+).+/); // - %num-%num
