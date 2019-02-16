@@ -1,6 +1,17 @@
 module.exports = (filename) => {
   let num = null;
 
+
+  num = filename.match(/\[(\d{1,2})\((?:OVA|OAD)\)]/); // [%num(OVA)]
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/[^\w\d](?:OVA|OAD|SP|OP|ED|NCOP|NCED|EX)[_ ]{0,1}(\d{1,2})[^\w\d]/); // [OVA1]
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
   num = filename.replace(/.+? (\d\d) \[.+/i, "$1");
   if (num !== filename) {
     return parseFloat(num);
