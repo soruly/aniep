@@ -13,7 +13,7 @@ const answerList = new Map(
 const rawAnswerList = new Map(
   answerFile
     .split("\n")
-    .filter((line) => line.match(/(\[Ohysi-Raws]|\[Leopard-Raws])/))
+    .filter((line) => line.match(/(\[Ohys-Raws]|\[Leopard-Raws])/))
     .map((line) => line.split("\t").reverse())
 );
 
