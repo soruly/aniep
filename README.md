@@ -43,6 +43,21 @@ aniep("[Ohys-Raws] Idolish Seven - 01-02 (MX 1280x720 x264 AAC).mp4"); // return
 aniep("[Ohys-Raws] High School DxD Hero - 11(10) (AT-X 1280x720 x264 AAC).mp4"); // return "10|11"
 ```
 
+special cases to be confirmed
+```
+2	B Gata H Kei - Vol.06 CM_02 (BD 1280x720 AVC AAC).mp4
+null	B Gata H Kei - Vol.02 Menu (BD 1280x720 AVC AAC).mp4
+1	[CASO][Tentai_Senshi_Sunred][BIG5][Vol05-SP1][DVDRIP][x264_AAC].mp4
+2	[CASO][Tentai_Senshi_Sunred][BIG5][Vol05-SP2][DVDRIP][x264_AAC].mp4
+9.5|21.5	[Dymy][Berserk 2][09.5(21.5)][BIG5][1280X720].mp4
+12	[FLsnow][AIR][Ep12_Creditless_ED][DVDrip][x264_AAC].mp4
+1|25	[HKACG][Lupin Sansei 2015][25_OVA1][BIG5_JP][x264_AAC][720p].mp4
+06,07|226,227	[SOSG&52wy][Naruto_Shippuuden][226-227(06-07)][BIG5][x264_AAC].mp4
+3|3.75	[諸神字幕組][進擊的巨人][Shingeki no Kyojin][OAD3][#3.75][720P][中日雙語字幕][MP4].mp4
+4|0.5	[諸神字幕組][進擊的巨人][Shingeki no Kyojin][OAD4][#0.5A][720P][中日雙語字幕][MP4].mp4
+5|0.5	[諸神字幕組][進擊的巨人][Shingeki no Kyojin][OAD5][#0.5B][576P][中日雙語字幕][MP4].mp4
+```
+
 ## Development
 
 To test the program's accuracy:
