@@ -11,7 +11,7 @@ module.exports = (filename) => {
     return parseFloat(num);
   }
 
-  num = filename.replace(/.+?\[(\d+\.*\d+).{0,4}].+/i, "$1");
+  num = filename.replace(/.+?\[(\d+\.*\d+)[^pPx]{0,4}].+/i, "$1");
   if (num !== filename) {
     return parseFloat(num);
   }
