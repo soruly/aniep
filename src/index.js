@@ -58,6 +58,14 @@ module.exports = (filename) => {
     ].sort((a, b) => a - b).join("|");
   }
 
+  num = filename.match(/ - (\d+) \((\d+)\)/); // - 13 (38)
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ].sort((a, b) => a - b).join("|");
+  }
+
   num = filename.replace(/.+?\[(\d+\.*\d+)[^pPx]{0,4}].+/i, "$1");
   if (num !== filename) {
     return parseFloat(num);
