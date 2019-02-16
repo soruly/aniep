@@ -22,7 +22,7 @@
     "padded-blocks": ["error", "never"],
     "func-names": ["off"],
     "no-console": ["off"],
-    "max-statements": ["warn", 50],
+    "max-statements": ["off"],
     "no-confusing-arrow": ["off"],
     "no-extra-parens": ["error", "all", { "nestedBinaryExpressions": false }],
     "no-unused-vars": ["warn"],

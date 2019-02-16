@@ -42,6 +42,22 @@ module.exports = (filename) => {
     return parseFloat(num);
   }
 
+  num = filename.match(/\[(\d+)\((\d+)\)]/); // [%num(%num)]
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ].sort((a, b) => a - b).join("|");
+  }
+
+  num = filename.match(/\[(\d+)_(\d+)]/); // [%num_%num]
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ].sort((a, b) => a - b).join("|");
+  }
+
   num = filename.replace(/.+?\[(\d+\.*\d+)[^pPx]{0,4}].+/i, "$1");
   if (num !== filename) {
     return parseFloat(num);
