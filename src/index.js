@@ -12,6 +12,11 @@ module.exports = (filename) => {
     return parseFloat(num[1]);
   }
 
+  num = filename.match(/ (?:#|＃)(\d{1,2})(?: |\.)/); // #1
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
   num = filename.replace(/.+? (\d\d) \[.+/i, "$1");
   if (num !== filename) {
     return parseFloat(num);
