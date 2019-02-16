@@ -1,7 +1,8 @@
 module.exports = (filename) => {
   let num = null;
   filename = filename.replace(/((?:\.mp4)+)$/, ""); // remove file extension
-  filename = filename.replace(/(\d)v[0-5]/i, "$1"); // remove v2, v3 suffix
+  filename = filename.replace(/(v\d)$/i, ""); // remove v2, v3 suffix
+  filename = filename.replace(/(\d)v[0-5]/i, "$1"); // remove v2 from 13v2
   filename = filename.replace(/(\[\d{4,}])/, ""); // remove years and dates like [2019] [20190301]
   // filename = filename.replace(/(\[[0-9a-f]{6,8}])/, ""); // remove checksum like [c3cafe11]
 
@@ -49,12 +50,18 @@ module.exports = (filename) => {
     ];
   }
 
-  num = filename.match(/s\d{1,2}ep*(\d{1,2})/i); // S03EP13
+  num = filename.match(/(?:s|v)\d{1,2}ep*(\d{1,2})/i); // S03EP13
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/\[(\d{1,3}(?:\.\d)*)(?:END)*]/); // [13]
+  // special case
+  num = filename.match(/ - (\d\d(?:\.\d)*) *(?:Fin)* *\[720]/i); // xxxx - 13 [720]
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/\[(\d{1,3}(?:\.\d)*) *(?:END)*]/); // [13END]
   if (num !== null) {
     return parseFloat(num[1]);
   }
@@ -79,18 +86,7 @@ module.exports = (filename) => {
     return parseFloat(num[1]);
   }
 
-
-  num = filename.match(/ (\d\d) \[/); // 13 [
-  if (num !== null) {
-    return parseFloat(num[1]);
-  }
-
-  num = filename.match(/(?: |\[)(\d\d)\[/); // 13[
-  if (num !== null) {
-    return parseFloat(num[1]);
-  }
-
-  num = filename.match(/\[(\d+)-(\d+)\((\d+)-(\d+)\)]/); // [01-02(13-14)] ==> "1,2|13,14"
+  num = filename.match(/\[(\d+)-(\d+)\((\d+)-(\d+)\)]/); // xxxx[01-02(13-14)]xxxx
   if (num !== null) {
     return [
       [
@@ -101,10 +97,10 @@ module.exports = (filename) => {
         parseFloat(num[3]),
         parseFloat(num[4])
       ].sort((a, b) => a - b).join(",")
-    ].sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1])).join("|");
+    ].sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1])).join("|"); // "1,2|13,14"
   }
 
-  num = filename.match(/\[(\d+)\((\d+)\)]/); // [01(13)]
+  num = filename.match(/\[(\d+)\((?:EP\.)*(\d+)\)]/i); // xxxx[01(ep.13)]xxxx
   if (num !== null) {
     return [
       parseFloat(num[1]),
@@ -112,7 +108,15 @@ module.exports = (filename) => {
     ].sort((a, b) => a - b).join("|");
   }
 
-  num = filename.match(/\[(\d+)-(\d+)]/); // [01-13]
+  num = filename.match(/\[(\d+)(?: |_|-)(?:S\d)(?: |_|-)(\d+)(?: END)*]/i); // xxxx[13 s2-01]xxxx
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ].sort((a, b) => a - b).join("|");
+  }
+
+  num = filename.match(/\[(\d+(?:\.\d)*)(?:-|&)(\d+(?:\.\d)*)(?:END)*]/); // xxxx[01-13END]xxxx
   if (num !== null) {
     return [
       parseFloat(num[1]),
@@ -120,7 +124,7 @@ module.exports = (filename) => {
     ];
   }
 
-  num = filename.match(/\[(\d+)-(\d+)_(\d+)-(\d+)]/); // [01-02_13-14] ==> "1,2|13,14"
+  num = filename.match(/\[(\d+)-(\d+)_(\d+)-(\d+)]/); // xxxx[01-02_13-14]xxxx
   if (num !== null) {
     return [
       [
@@ -131,10 +135,10 @@ module.exports = (filename) => {
         parseFloat(num[3]),
         parseFloat(num[4])
       ].sort((a, b) => a - b).join(",")
-    ].sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1])).join("|");
+    ].sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1])).join("|"); // "1,2|13,14"
   }
 
-  num = filename.match(/\[(\d+)_(\d+)]/); // [01_13]
+  num = filename.match(/\[(\d+)_(\d+)]/); // xxxx[01_13]xxxx
   if (num !== null) {
     return [
       parseFloat(num[1]),
@@ -142,7 +146,7 @@ module.exports = (filename) => {
     ].sort((a, b) => a - b).join("|");
   }
 
-  num = filename.match(/ - (\d{1,3}(?:\.\d)*) *\((\d{1,3}(?:\.\d)*)\)/); // xxxxx - 01.5 (13.5)
+  num = filename.match(/ - (\d{1,3}(?:\.\d)*) *\((?:s\d-)*(\d{1,3}(?:\.\d)*)\)/i); // xxxx - 01.5 (s1-13.5)xxxx
   if (num !== null) {
     return [
       parseFloat(num[1]),
@@ -150,17 +154,37 @@ module.exports = (filename) => {
     ].sort((a, b) => a - b).join("|");
   }
 
-  num = filename.match(/.+?\[(\d{1,3}(?:\.\d)*)[^pPx]{0,4}]/i); // [13.5yyyy]
+  num = filename.match(/.+\[(\d{1,3}(?:\.\d)*)[^pPx]{0,4}]/i); // xxxx[13.5yyyy]xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/\[(\d{1,3})[ _-].+?]/); // [13-x]
+  num = filename.match(/\[(\d{1,3})[ _-].+?]/); // xxxx[13-xxxx]xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/(?:EP) *(\d{1,3}(?:\.\d\D)*)/i); // EP 13.5
+  num = filename.match(/\[[^]+_(\d{1,2})]/); // xxxx[xxxx_13]xxxx
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/ (\d\d) \[/); // xxxx 13 [
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/(?: |\[|]|-)(\d\d)(?:\[|])/); // xxxx[ 13[xxxx
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/s\d-(\d{1,2})/i); // xxxxs2-13xxxx
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/(?:EP|Episode) *(\d{1,3}(?:\.\d\D)*)/i); // xxxxEP 13.5xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
@@ -170,7 +194,7 @@ module.exports = (filename) => {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/ - (\d+)[-~](\d+)/); // xxxxx - 13-26
+  num = filename.match(/ - (\d+)[-~](\d+)/); // xxxx - 13-26xxxx
   if (num !== null) {
     return [
       parseFloat(num[1]),
@@ -178,42 +202,50 @@ module.exports = (filename) => {
     ];
   }
 
-  num = filename.match(/ - (\d{1,3}(?:\.\d)*)/); // xxxx - 13.5
+  num = filename.match(/ - (\d{1,3}(?:\.\d)*)/); // xxxx - 13.5xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/^(\d{1,3}(?:\.\d)*)[^\d]/); // 13.5
+  num = filename.match(/^(\d{1,3}(?:\.\d)*)\D/); // 13.5xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/(?:#|＃)(\d{1,2})\D/); // #1
+  num = filename.match(/(?:#|＃)(\d{1,2})\D/); // xxxx#13xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/ (\d{1,3}(?:\.\d)*)[^xpP\]]{0,4} /); // xxxxx 13
+  num = filename.match(/ (\d{1,3}(?:\.\d)*)[^xpP\]\d]{0,4} /); // xxxx 13.5yyyy xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/(\d{1,3})$/); // xxxxx13.mp4
+  num = filename.match(/\W(\d{1,3})-(\d{1,3})$/); // xxxx01-13.mp4
+  if (num !== null) {
+    return [
+      parseFloat(num[1]),
+      parseFloat(num[2])
+    ];
+  }
+
+  num = filename.match(/(\d{1,3})$/); // xxxx13.mp4
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/\.(\d{1,3})\./); // xxxxx.13.xxxxx
+  num = filename.match(/\D\.(\d{1,3})\.\D/); // xxxx.13.xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/(\d{1,3}) - /); // 13 - xxx
+  num = filename.match(/\D(\d{1,3}) - /); // xxxx13 - xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/_(\d{1,3})_/); // xxx_13_xxx
+  num = filename.match(/(?: |_)(\d{1,3})_/); // xxxx_13_xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
