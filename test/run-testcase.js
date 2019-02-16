@@ -7,6 +7,7 @@ const answerFile = fs.readFileSync(path.join(__dirname, "../test/answer.txt"), "
 const answerList = new Map(
   answerFile
     .split("\n")
+    .filter((line) => !line.match(/(夜桜|宵夜|桜都|脸肿|Maho\.sub)/))
     .map((line) => line.split("\t").reverse())
 );
 
