@@ -1,6 +1,10 @@
 module.exports = (filename) => {
   let num = null;
 
+  num = filename.match(/第 *(\d+) *(?:集|話|话|回)/); // 第01集
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
 
   num = filename.match(/\[(\d{1,2})\((?:OVA|OAD)\)]/); // [%num(OVA)]
   if (num !== null) {
@@ -16,6 +20,17 @@ module.exports = (filename) => {
   if (num !== null) {
     return parseFloat(num[1]);
   }
+
+  num = filename.match(/【(\d+)】/); // 【01】
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/「(\d+)」/); // 「01」
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
 
   num = filename.replace(/.+? (\d\d) \[.+/i, "$1");
   if (num !== filename) {
