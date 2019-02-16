@@ -104,6 +104,11 @@ module.exports = (filename) => {
     return parseFloat(num);
   }
 
+  num = filename.match(/(\d{1,3})\.mp4/); // xxxxx%num.mp4
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
   return null;
 };
 
