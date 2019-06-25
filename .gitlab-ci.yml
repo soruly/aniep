@@ -3,6 +3,11 @@ image: node:10-alpine
 stages:
   - test
 
+lint:
+  - stage: test
+  script:
+  - npm run lint
+
 test:
   stage: test
   script:
