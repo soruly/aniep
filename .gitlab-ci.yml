@@ -4,13 +4,13 @@ stages:
   - test
 
 lint:
-  - stage: test
+  stage: test
   script:
-  - npm run lint
+    - npm ci
+    - npm run lint
 
 test:
   stage: test
   script:
     - npm test
-  coverage:
-    '/All test \(\d+.\d+\%\)/'
+  coverage: '/All test \(\d+.\d+\%\)/'
