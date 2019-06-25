@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/soruly/aniep#readme",
   "devDependencies": {
-    "eslint": "^5.13.0"
+    "prettier": "^1.18.2"
   }
 }
