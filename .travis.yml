@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "10"
+  - "node"
+cache:
+  directories:
+    - node_modules
+script:
+  - npm lint
+  - npm test
