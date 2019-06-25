@@ -7,10 +7,10 @@ lint:
   stage: test
   script:
     - npm ci
-    - npm run lint
+    - npm run test
 
-test:
+coverage:
   stage: test
   script:
-    - npm test
+    - npm run coverage
   coverage: '/All test \(\d+.\d+\%\)/'

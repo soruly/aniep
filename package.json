@@ -7,8 +7,8 @@
     "update-testcase": "node test/update-testcase.js",
     "quick-test": "node test/run-quick-test.js",
     "format": "prettier --write \"*/**/*.js\"",
-    "lint": "prettier --check \"*/**/*.js\"",
-    "test": "node test/run-testcase.js"
+    "test": "prettier --check \"*/**/*.js\"",
+    "coverage": "node test/run-testcase.js"
   },
   "repository": {
     "type": "git",
