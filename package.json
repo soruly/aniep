@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "description": "Extract episode number from anime file names",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "update-testcase": "node test/update-testcase.js",
     "quick-test": "node test/run-quick-test.js",

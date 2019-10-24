@@ -15,6 +15,8 @@ npm install aniep --save
 
 ## Usage
 
+#### JavaScript
+
 ```javascript
 const aniep = require("aniep");
 
@@ -41,6 +43,18 @@ aniep("[Ohys-Raws] Idolish Seven - 01-02 (MX 1280x720 x264 AAC).mp4"); // return
 
 // in case there are multiple possible episode number, it returns a string of episodes, using | as separator
 aniep("[Ohys-Raws] High School DxD Hero - 11(10) (AT-X 1280x720 x264 AAC).mp4"); // return "10|11"
+```
+
+#### TypeScript
+
+```typescript
+import aniep from 'aniep';
+
+// leading zero is removed, returning a Number type
+aniep("[Leopard-Raws] Yakusoku no Neverland - 04 RAW (THK 1280x720 x264 AAC).mp4"); // return 4
+
+// ...
+
 ```
 
 special cases to be confirmed
