@@ -12,7 +12,9 @@ const answerList = new Map(
 
 const answerListNew = new Map(
   child_process
-    .execSync('find /mnt/data/anime -type f -name "*.mp4"')
+    .execSync('find /mnt/data/anime -type f -name "*.mp4"', {
+      maxBuffer: 1024 * 1024 * 100
+    })
     .toString()
     .split("\n")
     .filter(file => file)
