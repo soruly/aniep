@@ -10,13 +10,13 @@ const answerFile = fs.readFileSync(
 const answerList = new Map(
   answerFile
     .split("\n")
-    .map(line => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse())
     .map(([filename, value]) => {
       if (value === "null") {
         return [filename, null];
       }
       if (value.indexOf(",") > 0) {
-        return [filename, value.split(",").map(each => parseFloat(each))];
+        return [filename, value.split(",").map((each) => parseFloat(each))];
       }
       if (value.indexOf("|") > 0) {
         return [filename, value];

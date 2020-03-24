@@ -10,26 +10,26 @@ const answerFile = fs.readFileSync(
 const answerList = new Map(
   answerFile
     .split("\n")
-    .filter(line => !line.match(/(夜桜|宵夜|桜都|脸肿|Maho\.sub)/))
-    .map(line => line.split("\t").reverse())
+    .filter((line) => !line.match(/(夜桜|宵夜|桜都|脸肿|Maho\.sub)/))
+    .map((line) => line.split("\t").reverse())
 );
 
 const rawAnswerList = new Map(
   answerFile
     .split("\n")
-    .filter(line => line.match(/(\[Ohys-Raws]|\[Leopard-Raws])/))
-    .map(line => line.split("\t").reverse())
+    .filter((line) => line.match(/(\[Ohys-Raws]|\[Leopard-Raws])/))
+    .map((line) => line.split("\t").reverse())
 );
 
 const chineseAnswerList = new Map(
   answerFile
     .split("\n")
-    .filter(line =>
+    .filter((line) =>
       line.match(
         /(\[Airota|\[BeanSub|\[CASO|\[Comicat|\[DHR|\[DMG|\[Dymy|\[EMD|\[FLsnow|\[FZSD|\[HKG|\[HYSUB|\[JYFanSUB|\[KNA|\[KTXP|\[Kamigami|\[LKSUB|\[Liuyun|\[Mabors|\[Mmch\.sub|\[Nekomoe|\[POPGO|\[Pussub|\[RH|\[Sakurato|\[SumiSora|\[TUcaptions|\[UHA-WINGS|\[WOLF|\[YUI-7)/
       )
     )
-    .map(line => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse())
 );
 
 let wrong = 0;

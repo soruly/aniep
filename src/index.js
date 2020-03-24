@@ -1,4 +1,4 @@
-module.exports = filename => {
+module.exports = (filename) => {
   let num = null;
   filename = filename.replace(/((?:\.mp4)+)$/, ""); // remove file extension
   filename = filename.replace(/(v\d)$/i, ""); // remove v2, v3 suffix
@@ -11,7 +11,7 @@ module.exports = filename => {
     return [parseFloat(num[1]), parseFloat(num[2])];
   }
 
-  const chineseToDigit = string =>
+  const chineseToDigit = (string) =>
     ({
       一: 1,
       二: 2,
@@ -27,7 +27,7 @@ module.exports = filename => {
       十二: 12,
       十三: 13,
       十四: 14,
-      十五: 15
+      十五: 15,
     }[string]);
 
   num = filename.match(/第([一二三四五六七八九十]+)(?:集|話|话|回|夜)/); // 第三話
@@ -87,7 +87,7 @@ module.exports = filename => {
   if (num !== null) {
     return [
       [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join(","),
-      [parseFloat(num[3]), parseFloat(num[4])].sort((a, b) => a - b).join(",")
+      [parseFloat(num[3]), parseFloat(num[4])].sort((a, b) => a - b).join(","),
     ]
       .sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1]))
       .join("|"); // "1,2|13,14"
@@ -116,7 +116,7 @@ module.exports = filename => {
   if (num !== null) {
     return [
       [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join(","),
-      [parseFloat(num[3]), parseFloat(num[4])].sort((a, b) => a - b).join(",")
+      [parseFloat(num[3]), parseFloat(num[4])].sort((a, b) => a - b).join(","),
     ]
       .sort((a, b) => parseFloat(a.split(",")[1]) - parseFloat(b.split(",")[1]))
       .join("|"); // "1,2|13,14"
