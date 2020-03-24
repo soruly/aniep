@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/soruly/aniep#readme",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.1"
   }
 }
