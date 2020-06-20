@@ -95,16 +95,12 @@ module.exports = (filename) => {
 
   num = filename.match(/\[(\d+)\((?:EP\.)*(\d+)\)]/i); // xxxx[01(ep.13)]xxxx
   if (num !== null) {
-    return [parseFloat(num[1]), parseFloat(num[2])]
-      .sort((a, b) => a - b)
-      .join("|");
+    return [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join("|");
   }
 
   num = filename.match(/\[(\d+)(?: |_|-)(?:S\d)(?: |_|-)(\d+)(?: END)*]/i); // xxxx[13 s2-01]xxxx
   if (num !== null) {
-    return [parseFloat(num[1]), parseFloat(num[2])]
-      .sort((a, b) => a - b)
-      .join("|");
+    return [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join("|");
   }
 
   num = filename.match(/\[(\d+(?:\.\d)*)(?:-|&)(\d+(?:\.\d)*)(?:END)*]/); // xxxx[01-13END]xxxx
@@ -124,18 +120,12 @@ module.exports = (filename) => {
 
   num = filename.match(/\[(\d+)_(\d+)]/); // xxxx[01_13]xxxx
   if (num !== null) {
-    return [parseFloat(num[1]), parseFloat(num[2])]
-      .sort((a, b) => a - b)
-      .join("|");
+    return [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join("|");
   }
 
-  num = filename.match(
-    / - (\d{1,3}(?:\.\d)*) *\((?:s\d-)*(\d{1,3}(?:\.\d)*)\)/i
-  ); // xxxx - 01.5 (s1-13.5)xxxx
+  num = filename.match(/ - (\d{1,3}(?:\.\d)*) *\((?:s\d-)*(\d{1,3}(?:\.\d)*)\)/i); // xxxx - 01.5 (s1-13.5)xxxx
   if (num !== null) {
-    return [parseFloat(num[1]), parseFloat(num[2])]
-      .sort((a, b) => a - b)
-      .join("|");
+    return [parseFloat(num[1]), parseFloat(num[2])].sort((a, b) => a - b).join("|");
   }
 
   num = filename.match(/.+\[(\d{1,3}(?:\.\d)*)[^pPx]{0,4}]/i); // xxxx[13.5yyyy]xxxx

@@ -19,11 +19,7 @@ const answerListNew = new Map(
     .split("\n")
     .filter((file) => file)
     .map((file) => path.basename(file))
-    .map((file) =>
-      answerList.has(file)
-        ? [file, answerList.get(file)]
-        : [file, `${getEp(file)}`]
-    )
+    .map((file) => (answerList.has(file) ? [file, answerList.get(file)] : [file, `${getEp(file)}`]))
 );
 
 fs.writeFileSync(

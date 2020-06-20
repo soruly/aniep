@@ -2,10 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const getEp = require("../src/index");
 
-const answerFile = fs.readFileSync(
-  path.join(__dirname, "../test/minimal.txt"),
-  "utf-8"
-);
+const answerFile = fs.readFileSync(path.join(__dirname, "../test/minimal.txt"), "utf-8");
 
 const answerList = new Map(
   answerFile
@@ -36,23 +33,15 @@ answerList.forEach((answer, filename) => {
   }
   if (!correct) {
     wrong += 1;
-    console.log(
-      `Expect: ${`${answer}`.padStart(6)} | Got: ${`${ep}`.padStart(
-        6
-      )} | ${filename}`
-    );
+    console.log(`Expect: ${`${answer}`.padStart(6)} | Got: ${`${ep}`.padStart(6)} | ${filename}`);
   }
 });
 
 const showResults = (numFailed, total, title) => {
   console.log();
+  console.log(`${title} (${(((total - numFailed) / total) * 100).toFixed(4)}%)`);
   console.log(
-    `${title} (${(((total - numFailed) / total) * 100).toFixed(4)}%)`
-  );
-  console.log(
-    `${(total - numFailed)
-      .toString()
-      .padStart(6)}/${total} testcases passed (${(
+    `${(total - numFailed).toString().padStart(6)}/${total} testcases passed (${(
       ((total - numFailed) / total) *
       100
     ).toFixed(4)}%)`
