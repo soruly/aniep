@@ -1,9 +1,10 @@
 # aniep
-![dependencies](https://img.shields.io/david/soruly/aniep.svg?style=flat)
-[![pipeline status](https://gitlab.com/soruly/aniep/badges/master/pipeline.svg)](https://gitlab.com/soruly/aniep/commits/master)
-[![coverage report](https://gitlab.com/soruly/aniep/badges/master/coverage.svg)](https://gitlab.com/soruly/aniep/-/jobs)
-[![License](https://img.shields.io/github/license/soruly/aniep.svg)](https://github.com/soruly/aniep/blob/master/LICENSE)
-![npm](https://img.shields.io/npm/v/aniep.svg?style=flat)
+
+[![License](https://img.shields.io/github/license/soruly/aniep.svg?style=flat-square)](https://github.com/soruly/aniep/blob/master/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/aniep/Node.js%20CI?style=flat-square)](https://github.com/soruly/aniep/actions)
+[![pipeline status](https://gitlab.com/soruly/aniep/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/soruly/aniep/commits/master)
+[![coverage report](https://gitlab.com/soruly/aniep/badges/master/coverage.svg?style=flat-square)](https://gitlab.com/soruly/aniep/-/jobs)
+![npm](https://img.shields.io/npm/v/aniep.svg?style=flat-square)
 
 Extract episode number from anime file name (In progress, see % accuracy above)
 
