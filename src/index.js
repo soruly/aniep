@@ -4,6 +4,7 @@ module.exports = (filename) => {
   filename = filename.replace(/((?:\.mp4)+)$/, ""); // remove file extension
   filename = filename.replace(/(v\d)$/i, ""); // remove v2, v3 suffix
   filename = filename.replace(/(\d)v[0-5]/i, "$1"); // remove v2 from 13v2
+  filename = filename.replace(/x26(4|5)/i, ""); // remove x264 and x265
   filename = filename.replace(/(\[\d{4,}])/, ""); // remove years and dates like [2019] [20190301]
   // filename = filename.replace(/(\[[0-9a-f]{6,8}])/, ""); // remove checksum like [c3cafe11]
 
