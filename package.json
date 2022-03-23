@@ -1,6 +1,6 @@
 {
   "name": "aniep",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Extract episode number from anime file names",
   "main": "src/index.js",
   "types": "types/index.d.ts",
