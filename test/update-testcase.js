@@ -18,6 +18,7 @@ const answerListNew = new Map(
     .toString()
     .split("\n")
     .filter((file) => file)
+    .filter((file) => Number(file.replace("/mnt/data/anime/", "").split("/")[0]) > 1000)
     .map((file) => path.basename(file))
     .map((file) => (answerList.has(file) ? [file, answerList.get(file)] : [file, `${getEp(file)}`]))
 );
