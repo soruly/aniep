@@ -1,7 +1,7 @@
 # aniep
 
 [![License](https://img.shields.io/github/license/soruly/aniep.svg?style=flat-square)](https://github.com/soruly/aniep/blob/master/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/aniep/Node.js%20CI?style=flat-square)](https://github.com/soruly/aniep/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/soruly/aniep/node.js.yml?style=flat-square)](https://github.com/soruly/aniep/actions)
 [![pipeline status](https://gitlab.com/soruly/aniep/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/soruly/aniep/commits/master)
 [![coverage report](https://gitlab.com/soruly/aniep/badges/master/coverage.svg?style=flat-square)](https://gitlab.com/soruly/aniep/-/jobs)
 ![npm](https://img.shields.io/npm/v/aniep.svg?style=flat-square)
