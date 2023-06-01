@@ -4,7 +4,7 @@
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/soruly/aniep/node.js.yml?style=flat-square)](https://github.com/soruly/aniep/actions)
 [![pipeline status](https://gitlab.com/soruly/aniep/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/soruly/aniep/commits/master)
 [![coverage report](https://gitlab.com/soruly/aniep/badges/master/coverage.svg?style=flat-square)](https://gitlab.com/soruly/aniep/-/jobs)
-![npm](https://img.shields.io/npm/v/aniep.svg?style=flat-square)
+[![npm](https://img.shields.io/npm/v/aniep.svg?style=flat-square)](https://www.npmjs.com/package/aniep)
 
 Extract episode number from anime file name (In progress, see % accuracy above)
 
@@ -31,7 +31,9 @@ aniep("[Leopard-Raws] Youjo Senki - 06.5 RAW (ATX 1280x720 x264 AAC).mp4"); // r
 aniep("[Leopard-Raws] Sora to Umi no Aida Special (SUN 1280x720 x264 AAC).mp4"); // return null
 
 // similarily, OVA also returns null
-aniep("[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC).mp4"); // return null
+aniep(
+  "[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC).mp4"
+); // return null
 
 // however, OVA with episode number would still return a Number
 aniep("[Ohys-Raws] Amanchu! - 13 OVA (AT-X 1280x720 x264 AAC).mp4"); // return 13
@@ -49,16 +51,16 @@ aniep("[Ohys-Raws] High School DxD Hero - 11(10) (AT-X 1280x720 x264 AAC).mp4");
 #### TypeScript
 
 ```typescript
-import aniep from 'aniep';
+import aniep from "aniep";
 
 // leading zero is removed, returning a Number type
 aniep("[Leopard-Raws] Yakusoku no Neverland - 04 RAW (THK 1280x720 x264 AAC).mp4"); // return 4
 
 // ...
-
 ```
 
 special cases to be confirmed
+
 ```
 2	B Gata H Kei - Vol.06 CM_02 (BD 1280x720 AVC AAC).mp4
 null	B Gata H Kei - Vol.02 Menu (BD 1280x720 AVC AAC).mp4
@@ -76,12 +78,11 @@ null	B Gata H Kei - Vol.02 Menu (BD 1280x720 AVC AAC).mp4
 ## Development
 
 To test the program's accuracy:
+
 ```
 npm test
 ```
 
-Dataset is defined in test/answer.txt, with over 100,000 file names found from Chinese anime websites. The text file is a tab-separated list of testcases. First column is expected answer, second column is input file name. 
+Dataset is defined in test/answer.txt, with over 100,000 file names found from Chinese anime websites. The text file is a tab-separated list of testcases. First column is expected answer, second column is input file name.
 
 You can test your implementation (defined in src/index.js) against the dataset to see how well your episode number extraction function performs.
-
-
