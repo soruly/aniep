@@ -1,7 +1,7 @@
 module.exports = (filename) => {
   let num = null;
   filename = filename.replace(/[\r\n]$/, ""); // remove extra newlines from end of string
-  filename = filename.replace(/((?:\.mp4)+)$/, ""); // remove file extension
+  filename = filename.replace(/((?:\.mp4|\.mkv)+)$/, ""); // remove file extension
   filename = filename.replace(/(v\d)$/i, ""); // remove v2, v3 suffix
   filename = filename.replace(/(\d)v[0-5]/i, "$1"); // remove v2 from 13v2
   filename = filename.replace(/x26(4|5)/i, ""); // remove x264 and x265
