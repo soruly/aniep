@@ -8,14 +8,14 @@ const answerList = new Map(
   answerFile
     .split("\n")
     .filter((line) => !line.match(/(夜桜|宵夜|桜都|脸肿|Maho\.sub)/))
-    .map((line) => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse()),
 );
 
 const rawAnswerList = new Map(
   answerFile
     .split("\n")
     .filter((line) => line.match(/(\[Ohys-Raws]|\[Leopard-Raws])/))
-    .map((line) => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse()),
 );
 
 const chineseAnswerList = new Map(
@@ -23,10 +23,10 @@ const chineseAnswerList = new Map(
     .split("\n")
     .filter((line) =>
       line.match(
-        /(\[Airota|\[BeanSub|\[CASO|\[Comicat|\[DHR|\[DMG|\[Dymy|\[EMD|\[FLsnow|\[FZSD|\[HKG|\[HYSUB|\[JYFanSUB|\[KNA|\[KTXP|\[Kamigami|\[LKSUB|\[Liuyun|\[Mabors|\[Mmch\.sub|\[Nekomoe|\[POPGO|\[Pussub|\[RH|\[Sakurato|\[SumiSora|\[TUcaptions|\[UHA-WINGS|\[WOLF|\[YUI-7)/
-      )
+        /(\[Airota|\[BeanSub|\[CASO|\[Comicat|\[DHR|\[DMG|\[Dymy|\[EMD|\[FLsnow|\[FZSD|\[HKG|\[HYSUB|\[JYFanSUB|\[KNA|\[KTXP|\[Kamigami|\[LKSUB|\[Liuyun|\[Mabors|\[Mmch\.sub|\[Nekomoe|\[POPGO|\[Pussub|\[RH|\[Sakurato|\[SumiSora|\[TUcaptions|\[UHA-WINGS|\[WOLF|\[YUI-7)/,
+      ),
     )
-    .map((line) => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse()),
 );
 
 let wrong = 0;
@@ -34,7 +34,7 @@ answerList.forEach((num, filename) => {
   if (`${getEp(filename)}` !== num) {
     wrong += 1;
     console.log(
-      `Expect: ${`${num}`.padStart(6)} | Got: ${`${getEp(filename)}`.padStart(6)} | ${filename}`
+      `Expect: ${`${num}`.padStart(6)} | Got: ${`${getEp(filename)}`.padStart(6)} | ${filename}`,
     );
   }
 });
@@ -60,13 +60,13 @@ const showResults = (numFailed, total, title) => {
     `${(total - numFailed).toString().padStart(6)}/${total} testcases passed (${(
       ((total - numFailed) / total) *
       100
-    ).toFixed(4)}%)`
+    ).toFixed(4)}%)`,
   );
   console.log(
     `${numFailed.toString().padStart(6)}/${total} testcases failed (${(
       (numFailed / total) *
       100
-    ).toFixed(4)}%)`
+    ).toFixed(4)}%)`,
   );
 };
 

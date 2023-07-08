@@ -7,7 +7,7 @@ const answerList = new Map(
   fs
     .readFileSync(path.join(__dirname, "../test/answer.txt"), "utf-8")
     .split("\n")
-    .map((line) => line.split("\t").reverse())
+    .map((line) => line.split("\t").reverse()),
 );
 
 const answerListNew = new Map(
@@ -20,7 +20,9 @@ const answerListNew = new Map(
     .filter((file) => file)
     .filter((file) => Number(file.replace("/mnt/data/anime/", "").split("/")[0]) > 1000)
     .map((file) => path.basename(file))
-    .map((file) => (answerList.has(file) ? [file, answerList.get(file)] : [file, `${getEp(file)}`]))
+    .map((file) =>
+      answerList.has(file) ? [file, answerList.get(file)] : [file, `${getEp(file)}`],
+    ),
 );
 
 fs.writeFileSync(
@@ -28,5 +30,5 @@ fs.writeFileSync(
   Array.from(answerListNew)
     .sort((a, b) => (a[0] > b[0] ? 1 : -1))
     .map((each) => each.reverse().join("\t"))
-    .join("\n")
+    .join("\n"),
 );

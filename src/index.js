@@ -35,7 +35,7 @@ module.exports = (filename) => {
       十三: 13,
       十四: 14,
       十五: 15,
-    }[string]);
+    })[string];
 
   num = filename.match(/第([一二三四五六七八九十]+)(?:集|話|话|回|夜|弾)/); // 第三話
   if (num !== null) {
@@ -74,7 +74,7 @@ module.exports = (filename) => {
   }
 
   num = filename.match(
-    /[^\w\d](?:OVA|OAD|SP|OP|ED|NCOP|NCED|EX|CM|PV|Preview|Yokoku|メニュー|Menu|エンディング|Movie)[-_ ]{0,1}(\d{1,2})[^\w\d]/i
+    /[^\w\d](?:OVA|OAD|SP|OP|ED|NCOP|NCED|EX|CM|PV|Preview|Yokoku|メニュー|Menu|エンディング|Movie)[-_ ]{0,1}(\d{1,2})[^\w\d]/i,
   ); // [OVA1]
   if (num !== null) {
     return parseFloat(num[1]);
