@@ -12,6 +12,7 @@ module.exports = (filename) => {
   filename = filename.replace(/(?:1920|1080|1280|720|1024|576)(?:p|P|x|X|×)/, "x"); // remove resolutions like 720 or 1080
   filename = filename.replace(/((19|20)\d\d)/, ""); // remove years like 1999 or 2019
   filename = filename.replace(/\(BD\)/, ""); // remove resolution like (BD)
+  filename = filename.replace(/\(DVD\)/, ""); // remove format like (DVD)
 
   num = filename.match(/^(\d{1,4})(?:-|~)(\d{1,4})$/); // 13.mp4
   if (num !== null) {
