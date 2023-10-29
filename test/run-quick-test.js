@@ -12,14 +12,14 @@ const answerList = new Map(
       if (value === "null") {
         return [filename, null];
       }
-      if (value.indexOf(",") > 0) {
-        return [filename, value.split(",").map((each) => parseFloat(each))];
-      }
       if (value.indexOf("|") > 0) {
         return [filename, value];
       }
+      if (value.indexOf(",") > 0) {
+        return [filename, value.split(",").map((each) => parseFloat(each))];
+      }
       return [filename, parseFloat(value)];
-    }),
+    })
 );
 
 let wrong = 0;
@@ -44,13 +44,13 @@ const showResults = (numFailed, total, title) => {
     `${(total - numFailed).toString().padStart(6)}/${total} testcases passed (${(
       ((total - numFailed) / total) *
       100
-    ).toFixed(4)}%)`,
+    ).toFixed(4)}%)`
   );
   console.log(
     `${numFailed.toString().padStart(6)}/${total} testcases failed (${(
       (numFailed / total) *
       100
-    ).toFixed(4)}%)`,
+    ).toFixed(4)}%)`
   );
 };
 
