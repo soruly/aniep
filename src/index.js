@@ -9,8 +9,8 @@ module.exports = (filename) => {
   filename = filename.replace(/(\[[0-9a-fA-F]{6,8}])/, "[]"); // remove checksum like [c3cafe11]
   filename = filename.replace(/(\[\d{5,}])/, ""); // remove dates like [20190301]
   filename = filename.replace(/\(\d+(?:x|X|×)\d+\)/, ""); // remove resolutions like (1280x720)
-  filename = filename.replace(/(?:1920|1280)(?:_|-)(?:1080|720)/, ""); // remove resolutions like 1920_1080 or 1920-1080
-  filename = filename.replace(/(?:1920|1080|1280|720|1024|576)(?:p|P|x|X|×)/, "x"); // remove resolutions like 720 or 1080
+  filename = filename.replace(/(?:1920|1080|1280|720|1024|576)(?:p|P|x|X|×|_|-)/, "x"); // remove resolutions like 720 or 1080 the forward way
+  filename = filename.replace(/(?<=x|X|×|_|-)(?:1920|1080|1280|720|1024|576)/, "x"); // remove resolutions like 720 or 1080 the lookbehind way
   filename = filename.replace(/((19|20)\d\d)/, ""); // remove years like 1999 or 2019
   filename = filename.replace(/\(BD\)/, ""); // remove resolution like (BD)
   filename = filename.replace(/\(DVD\)/, ""); // remove format like (DVD)
