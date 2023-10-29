@@ -4,12 +4,15 @@ module.exports = (filename) => {
   filename = filename.replace(/((?:\.mp4|\.mkv)+)$/, ""); // remove file extension
   filename = filename.replace(/(v\d)$/i, ""); // remove v2, v3 suffix
   filename = filename.replace(/(\d)v[0-5]/i, "$1"); // remove v2 from 13v2
-  filename = filename.replace(/x26(4|5)/i, ""); // remove x264 and x265
-  filename = filename.replace(/10-?bit/i, ""); // remove 10bit and 10-bit
+  filename = filename.replace(/(x|h)26(4|5)/i, ""); // remove x264 and x265
+  filename = filename.replace(/\bmp4\b/i, " "); // remove x264 and x265
+  filename = filename.replace(/(8|10)-?bit/i, ""); // remove 10bit and 10-bit
   filename = filename.replace(/(\[[0-9a-fA-F]{6,8}])/, "[]"); // remove checksum like [c3cafe11]
   filename = filename.replace(/(\[\d{5,}])/, ""); // remove dates like [20190301]
-  filename = filename.replace(/\(\d+(?:x|X|×)\d+\)/, ""); // remove resolutions like (1280x720)
-  filename = filename.replace(/(?:1920|1080|1280|720|1024|576)(?:p|P|x|X|×)/, "x"); // remove resolutions like 720 or 1080
+  filename = filename.replace(/\d\d\d\d-\d\d-\d\d/, " "); // remove dates like yyyy-mm-dd
+  filename = filename.replace(/\d{3,4}\s*(?:x|×)\s*\d{3,4}p?/i, " "); // remove resolutions like 1280x720
+  filename = filename.replace(/(?:2160|1080|720|480)(?:p|i)/i, " "); // remove resolutions like 720p or 1080i
+  filename = filename.replace(/2k|4k/i, " "); // remove resolutions 2k or 4k
   filename = filename.replace(/((19|20)\d\d)/, ""); // remove years like 1999 or 2019
   filename = filename.replace(/\(BD\)/, ""); // remove resolution like (BD)
   filename = filename.replace(/\(DVD\)/, ""); // remove format like (DVD)
@@ -36,21 +39,21 @@ module.exports = (filename) => {
       十三: 13,
       十四: 14,
       十五: 15,
-    })[string];
+    }[string]);
 
   num = filename.match(/第([一二三四五六七八九十]+)(?:集|話|话|回|夜|弾)/); // 第三話
   if (num !== null) {
     return parseFloat(chineseToDigit(num[1]));
   }
 
-  num = filename.match(/第 *(\d+(?:\.\d)*) *(?:集|話|话|回|夜|弾)/); // 第 13.5 話
-  if (num !== null) {
-    return parseFloat(num[1]);
-  }
-
-  num = filename.match(/第 *(\d+)-(\d+) *(?:集|話|话|回|夜|弾)/); // 第 01-13 話
+  num = filename.match(/第? *(\d+)-(\d+) *(?:集|話|话|回|夜|弾)/); // 第 01-13 話
   if (num !== null) {
     return [parseFloat(num[1]), parseFloat(num[2])];
+  }
+
+  num = filename.match(/第? *(\d+(?:\.\d)*) *(?:集|話|话|回|夜|弾)/); // 第 13.5 話
+  if (num !== null) {
+    return parseFloat(num[1]);
   }
 
   num = filename.match(/(?:s|v)\d{1,2}ep*(\d{1,2})/i); // S03EP13
@@ -75,7 +78,7 @@ module.exports = (filename) => {
   }
 
   num = filename.match(
-    /[^\w\d](?:OVA|OAD|SP|OP|ED|NCOP|NCED|EX|CM|PV|Preview|Yokoku|メニュー|Menu|エンディング|Movie)[-_ ]{0,1}(\d{1,2})[^\w\d]/i,
+    /[^\w\d](?:OVA|OAD|SP|OP|ED|NCOP|NCED|EX|CM|PV|Preview|Yokoku|メニュー|Menu|エンディング|Movie)[-_ ]{0,1}(\d{1,2})[^\w\d]/i
   ); // [OVA1]
   if (num !== null) {
     return parseFloat(num[1]);
@@ -166,7 +169,12 @@ module.exports = (filename) => {
     return parseFloat(num[1]);
   }
 
-  num = filename.match(/(?:EP|Episode) *(\d{1,4}(?:\.\d\D)*)/i); // xxxxEP 13.5xxxx
+  num = filename.match(/\bE(\d{1,4}(?:\.\d\D)*)\b/); // xxxxE13.5xxxx
+  if (num !== null) {
+    return parseFloat(num[1]);
+  }
+
+  num = filename.match(/(?:EP|Episode|Round)\.? *(\d{1,4}(?:\.\d\D)*)/i); // xxxxEP 13.5xxxx
   if (num !== null) {
     return parseFloat(num[1]);
   }
