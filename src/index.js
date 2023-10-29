@@ -12,6 +12,7 @@ module.exports = (filename) => {
   filename = filename.replace(/\d\d\d\d-\d\d-\d\d/, " "); // remove dates like yyyy-mm-dd
   filename = filename.replace(/\d{3,4}\s*(?:x|×)\s*\d{3,4}p?/i, " "); // remove resolutions like 1280x720
   filename = filename.replace(/(?:2160|1080|720|480)(?:p|i)/i, " "); // remove resolutions like 720p or 1080i
+  filename = filename.replace(/(?:3840|1920|1280)[-_](?:2160|1080|720)/, " "); // remove resolutions like 1280x720
   filename = filename.replace(/2k|4k/i, " "); // remove resolutions 2k or 4k
   filename = filename.replace(/((19|20)\d\d)/, ""); // remove years like 1999 or 2019
   filename = filename.replace(/\(BD\)/, ""); // remove resolution like (BD)
