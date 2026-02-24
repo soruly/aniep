@@ -2,30 +2,31 @@
   "name": "aniep",
   "version": "0.6.0",
   "description": "Extract episode number from anime file names",
+  "keywords": [
+    "anime"
+  ],
+  "homepage": "https://github.com/soruly/aniep#readme",
+  "bugs": {
+    "url": "https://github.com/soruly/aniep/issues"
+  },
+  "license": "MIT",
+  "author": "soruly",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soruly/aniep.git"
+  },
   "main": "src/index.js",
   "types": "types/index.d.ts",
   "scripts": {
     "update-testcase": "node test/update-testcase.js",
     "quick-test": "node test/run-quick-test.js",
-    "prettier": "prettier",
-    "format": "prettier --write \"*/**/*.js\"",
-    "test": "prettier --check \"*/**/*.js\"",
+    "oxfmt": "oxfmt",
+    "format": "oxfmt --write \"**/*.*\"",
+    "lint": "oxfmt --check \"**/*.*\"",
+    "test": "oxfmt --check \"**/*.*\"",
     "coverage": "node test/run-testcase.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/soruly/aniep.git"
-  },
-  "keywords": [
-    "anime"
-  ],
-  "author": "soruly",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/soruly/aniep/issues"
-  },
-  "homepage": "https://github.com/soruly/aniep#readme",
   "devDependencies": {
-    "prettier": "^3.0.0"
+    "oxfmt": "^0.35.0"
   }
 }

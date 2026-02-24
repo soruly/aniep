@@ -32,7 +32,7 @@ aniep("[Leopard-Raws] Sora to Umi no Aida Special (SUN 1280x720 x264 AAC).mp4");
 
 // similarily, OVA also returns null
 aniep(
-  "[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC).mp4"
+  "[Ohys-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC).mp4",
 ); // return null
 
 // however, OVA with episode number would still return a Number
