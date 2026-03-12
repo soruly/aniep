@@ -27,6 +27,6 @@
     "coverage": "node test/run-testcase.js"
   },
   "devDependencies": {
-    "oxfmt": "^0.37.0"
+    "oxfmt": "^0.38.0"
   }
 }
