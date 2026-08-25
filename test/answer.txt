@@ -9070,6 +9070,7 @@ null	[20260816][OCCbR1lebxI][【アニメ】無限オフィス【ホラー】].m
 371	[20260820][Zqpnz6AQYkQ][【公式】『ちいかわ』第371話「流れ・スイカ②」※1週間限定配信＜8⧸28 (金)AM7_59まで＞].mp4
 73	[20260822][u2YH2wWfguI][【公式】TVアニメ『コウペンちゃん』 第73話 「夏フェスとみずいろのおともだち」].mp4
 null	[20260823][pq8veIlUIWQ][【アニメ】助けて！メイド服が脱げない].mp4
+372	[20260824][aCj76BtBanw][【公式】『ちいかわ』第372話「メロン当選①」※1週間限定配信＜9⧸1 (火)AM7_59まで＞].mp4
 2	[20605][あんてきぬすっ]OVAヤリチン家庭教師ネトリ報告 ＃2(No Watermark).mp4
 1	[20605][ばにぃうぉ～か～]OVA義姉はヤンママ授乳中 ＃1(No Watermark).mp4
 null	[20626][PoRO]姫様LOVEライフ！ 自虐オ姫・ラティ～好奇に微睡むおねだりボディ～(No Watermark).mp4
@@ -11069,6 +11070,7 @@ null	[ANS-Union][Tenki no Ko][MOVIE][1080p][BDRip][CHT&JPN][H264 AAC].mp4
 17	[ANi] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 18	[ANi] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 19	[ANi] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+20	[ANi] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] B-PROJECT 〜熱烈＊Love Call〜 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] B-PROJECT 〜熱烈＊Love Call〜 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] B-PROJECT 〜熱烈＊Love Call〜 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -11459,6 +11461,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] GRAND BLUE 碧藍之海 3 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] GRAND BLUE 碧藍之海 3 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] GRAND BLUE 碧藍之海 3 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+8	[ANi] GRAND BLUE 碧藍之海 3 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] Gachiakuta - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] Gachiakuta - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] Gachiakuta - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -11630,6 +11633,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 18	[ANi] MAO 摩緒 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 19	[ANi] MAO 摩緒 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 20	[ANi] MAO 摩緒 - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+21	[ANi] MAO 摩緒 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] MOMENTARY LILY 剎那之花 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] MOMENTARY LILY 剎那之花 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] MOMENTARY LILY 剎那之花 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -11976,6 +11980,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] THE WORLD IS DANCING 世界在起舞 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] THE WORLD IS DANCING 世界在起舞 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 8	[ANi] THE WORLD IS DANCING 世界在起舞 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+9	[ANi] THE WORLD IS DANCING 世界在起舞 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] TRIGUN STAMPEDE - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] TRIGUN STAMPEDE - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] TRIGUN STAMPEDE - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -16937,6 +16942,7 @@ null	[ANi] 機動戰士鋼彈 水星的魔女 - 特別篇 [1080P][Baha][WEB-DL][
 5	[ANi] 無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] 無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] 無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+8	[ANi] 無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 無神世界的神明活動 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 無神世界的神明活動 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] 無神世界的神明活動 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -18264,6 +18270,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 5	[ANi] 與奔馳於透明之夜的你，談一場看不見的戀愛。 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] 與奔馳於透明之夜的你，談一場看不見的戀愛。 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] 與奔馳於透明之夜的你，談一場看不見的戀愛。 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+8	[ANi] 與奔馳於透明之夜的你，談一場看不見的戀愛。 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 與妳相戀到生命盡頭 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 與妳相戀到生命盡頭 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 與妳相戀到生命盡頭 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19836,6 +19843,7 @@ null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - �
 5	[ANi] 骸骨騎士大人異世界冒險中 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] 骸骨騎士大人異世界冒險中 第二季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] 骸骨騎士大人異世界冒險中 第二季 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+8	[ANi] 骸骨騎士大人異世界冒險中 第二季 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 高校！奇面組 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 高校！奇面組 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 高校！奇面組 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19855,6 +19863,7 @@ null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - �
 5	[ANi] 鬥球女彈子 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 6	[ANi] 鬥球女彈子 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 7	[ANi] 鬥球女彈子 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+8	[ANi] 鬥球女彈子 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 鬼人幻燈抄 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 鬼人幻燈抄 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 鬼人幻燈抄 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -43971,6 +43980,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 17	[Dynamis One] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 17 (Baha 1920x1080 AVC AAC MP4) [7E290CFB].mp4
 18	[Dynamis One] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 18 (Baha 1920x1080 AVC AAC MP4) [1AED133D].mp4
 19	[Dynamis One] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 19 (Baha 1920x1080 AVC AAC MP4) [36F36A6E].mp4
+20	[Dynamis One] Animatica「北斗之拳 拳王軍雜兵們的輓歌」 - 20 (Baha 1920x1080 AVC AAC MP4) [7ED21886].mp4
 23	[Dynamis One] Ao no Hako - 23 (ABEMA 1920x1080 AVC AAC MP4) [183164D9].mp4
 24	[Dynamis One] Ao no Hako - 24 (ABEMA 1920x1080 AVC AAC MP4) [D8FCF329].mp4
 25	[Dynamis One] Ao no Hako - 25 (ABEMA 1920x1080 AVC AAC MP4) [1ECC6418].mp4
@@ -44121,7 +44131,9 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 5	[Dynamis One] Buchigire - 05 (CR 1920x1080 AVC AAC MKV) [F4FA326F].mp4
 6	[Dynamis One] Buchigire - 06 (ABEMA 1920x1080 AVC AAC MKV) [917CAB19].mp4
 6	[Dynamis One] Buchigire - 06 (CR 1920x1080 AVC AAC MKV) [185D169B].mp4
+7	[Dynamis One] Buchigire - 07 (ABEMA 1920x1080 AVC AAC MKV) [244F7BC4].mp4
 7	[Dynamis One] Buchigire - 07 (CR 1920x1080 AVC AAC MKV) [74558D3B].mp4
+8	[Dynamis One] Buchigire - 08 (CR 1920x1080 AVC AAC MKV) [A2571C39].mp4
 1	[Dynamis One] Bukiyou na Senpai. - 01 (ABEMA 1920x1080 AVC AAC MP4) [BB1233A4].mp4
 2	[Dynamis One] Bukiyou na Senpai. - 02 (ABEMA 1920x1080 AVC AAC MP4) [5395BAA6].mp4
 3	[Dynamis One] Bukiyou na Senpai. - 03 (ABEMA 1920x1080 AVC AAC MP4) [8E6F72A0].mp4
@@ -45510,6 +45522,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 18	[Dynamis One] Liar Game - 18 (ABEMA 1920x1080 AVC AAC MKV) [A0BFCC75].mp4
 19	[Dynamis One] Liar Game - 19 (ABEMA 1920x1080 AVC AAC MKV) [FA82ABEB].mp4
 20	[Dynamis One] Liar Game - 20 (ABEMA 1920x1080 AVC AAC MKV) [2E99B88E].mp4
+21	[Dynamis One] Liar Game - 21 (ABEMA 1920x1080 AVC AAC MKV) [0ED3EB07].mp4
 1	[Dynamis One] Lv999 no Murabito - 01 (ABEMA 1920x1080 AVC AAC MKV) [49D9284F].mp4
 2	[Dynamis One] Lv999 no Murabito - 02 (ABEMA 1920x1080 AVC AAC MKV) [89EA0FDF].mp4
 3	[Dynamis One] Lv999 no Murabito - 03 (ABEMA 1920x1080 AVC AAC MKV) [55916160].mp4
@@ -46157,6 +46170,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 6	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 06 (CR 1920x1080 AVC AAC MKV) [241D7F9A].mp4
 7	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 (ABEMA 1920x1080 AVC AAC MKV) [96740328].mp4
 7	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 07 (CR 1920x1080 AVC AAC MKV) [F2B3AD09].mp4
+8	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 08 (CR 1920x1080 AVC AAC MKV) [CBE30CC1].mp4
 11	[Dynamis One] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (ABEMA 1920x1080 AVC AAC MP4) [4AD3D71C].mp4
 12	[Dynamis One] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (ABEMA 1920x1080 AVC AAC MP4) [4493C388].mp4
 10	[Dynamis One] Sakamoto Days - 10 (ABEMA 1920x1080 AVC AAC MP4) [62462966].mp4
@@ -46410,6 +46424,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 6	[Dynamis One] Tenbin - 06 (CR 1920x1080 AVC AAC MKV) [5FE46FE1].mp4
 7	[Dynamis One] Tenbin - 07 (ABEMA 1920x1080 AVC AAC MKV) [D38362F0].mp4
 7	[Dynamis One] Tenbin - 07 (CR 1920x1080 AVC AAC MKV) [1A55F08E].mp4
+8	[Dynamis One] Tenbin - 08 (CR 1920x1080 AVC AAC MKV) [A7CD2939].mp4
 1	[Dynamis One] Tensei Akujo no Kuro Rekishi - 01 (ABEMA 1920x1080 AVC AAC MP4) [6BF98839].mp4
 2	[Dynamis One] Tensei Akujo no Kuro Rekishi - 02 (ABEMA 1920x1080 AVC AAC MP4) [E1E8C57E].mp4
 3	[Dynamis One] Tensei Akujo no Kuro Rekishi - 03 (ABEMA 1920x1080 AVC AAC MP4) [1D77162E].mp4
@@ -46665,6 +46680,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 5	[Dynamis One] Ushiro no Shoumen Kamui-san (On-air version) - 05 (ABEMA 1920x1080 AVC AAC MKV) [77BCB6E6].mp4
 6	[Dynamis One] Ushiro no Shoumen Kamui-san (On-air version) - 06 (ABEMA 1920x1080 AVC AAC MKV) [E612C07C].mp4
 7	[Dynamis One] Ushiro no Shoumen Kamui-san (On-air version) - 07 (ABEMA 1920x1080 AVC AAC MKV) [C2D74DC3].mp4
+8	[Dynamis One] Ushiro no Shoumen Kamui-san (On-air version) - 08 (ABEMA 1920x1080 AVC AAC MKV) [D630F363].mp4
 1	[Dynamis One] Ushiro no Shoumen Kamui-san Mini Anime Gekijou - 01 (ABEMA 1920x1080 AVC AAC MKV) [A765679C].mp4
 2	[Dynamis One] Ushiro no Shoumen Kamui-san Mini Anime Gekijou - 02 (ABEMA 1920x1080 AVC AAC MKV) [1DD35F5A].mp4
 10	[Dynamis One] Vigilante: Boku no Hero Academia Illegals - 10 (ABEMA 1920x1080 AVC AAC MP4) [7895950D].mp4
@@ -96942,6 +96958,7 @@ null	[Nekomoe kissaten] Alice in Deadly School [BDRip 1080p HEVC-10bit FLAC ASSx
 5	[Nekomoe kissaten][20 Seiki Denki Mokuroku][05][1080p][JPTC].mp4
 6	[Nekomoe kissaten][20 Seiki Denki Mokuroku][06][1080p][JPTC].mp4
 7	[Nekomoe kissaten][20 Seiki Denki Mokuroku][07][1080p][JPTC].mp4
+8	[Nekomoe kissaten][20 Seiki Denki Mokuroku][08][1080p][JPTC].mp4
 1	[Nekomoe kissaten][30-sai made Doutei dato Mahoutsukai ni Nareru Rashii][01][1080p][JPTC].mp4
 2	[Nekomoe kissaten][30-sai made Doutei dato Mahoutsukai ni Nareru Rashii][02][1080p][JPTC].mp4
 3	[Nekomoe kissaten][30-sai made Doutei dato Mahoutsukai ni Nareru Rashii][03][1080p][JPTC].mp4
