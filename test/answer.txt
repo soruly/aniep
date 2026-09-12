@@ -3804,6 +3804,7 @@ null	Hatsukoi Limited - Vol.06 SP (BD 1280x720 AVC AAC).mp4
 8	I.Became.a.Legend.after.My.10.Year.Long.Last.Stand.S01E08.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.mp4
 9	I.Became.a.Legend.after.My.10.Year.Long.Last.Stand.S01E09.Mythical.Beasts.That.Lurk.in.the.Darkness.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.mp4
 10	I.Became.a.Legend.after.My.10.Year.Long.Last.Stand.S01E10.Storming.the.Enemy.Position.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.mp4
+11	I.Became.a.Legend.after.My.10.Year.Long.Last.Stand.S01E11.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.mp4
 1	IGPX_01.mp4
 2	IGPX_02.mp4
 3	IGPX_03.mp4
@@ -13679,6 +13680,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 20	[ANi] 地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 21	[ANi] 地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 22	[ANi] 地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+23	[ANi] 地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～ 2nd Season - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 13	[ANi] 地縛少年花子君 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 14	[ANi] 地縛少年花子君 2 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 15	[ANi] 地縛少年花子君 2 - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -14794,6 +14796,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 8	[ANi] 從 0 位居民開始的邊境領主大人 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 從 0 位居民開始的邊境領主大人 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 從 0 位居民開始的邊境領主大人 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 從 0 位居民開始的邊境領主大人 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -14864,6 +14867,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 8	[ANi] 從後面來的神威先生 [年齡限制版] - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 從後面來的神威先生 [年齡限制版] - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 從後面來的神威先生 [年齡限制版] - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 從後面來的神威先生 [年齡限制版] - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 從路人角色開始的探索英雄譚 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 從路人角色開始的探索英雄譚 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 從路人角色開始的探索英雄譚 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15320,6 +15324,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 8	[ANi] 我家的弟弟們真是讓您費心了 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 我家的弟弟們真是讓您費心了 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 我家的弟弟們真是讓您費心了 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 我家的弟弟們真是讓您費心了 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 我家的英雄 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 我家的英雄 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 我家的英雄 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15674,6 +15679,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 21	[ANi] 拉拉熊 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 22	[ANi] 拉拉熊 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 23	[ANi] 拉拉熊 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+24	[ANi] 拉拉熊 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 拉麵赤貓 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 拉麵赤貓 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 拉麵赤貓 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15820,6 +15826,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 18	[ANi] 擅長逃跑的殿下 第二季 - 18 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 19	[ANi] 擅長逃跑的殿下 第二季 - 19 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 20	[ANi] 擅長逃跑的殿下 第二季 - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+21	[ANi] 擅長逃跑的殿下 第二季 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 放學後失眠的你 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 放學後失眠的你 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 放學後失眠的你 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -17383,6 +17390,7 @@ null	[ANi] 無職轉生～到了異世界就拿出真本事 第二季 - 特別�
 7	[ANi] 畫完這個再去死 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 8	[ANi] 畫完這個再去死 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 畫完這個再去死 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+10	[ANi] 畫完這個再去死 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 異世界四重奏 3 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 異世界四重奏 3 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 異世界四重奏 3 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -17794,6 +17802,7 @@ null	[ANi] 無職轉生～到了異世界就拿出真本事 第二季 - 特別�
 20	[ANi] 神之雫 - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 21	[ANi] 神之雫 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 22	[ANi] 神之雫 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+23	[ANi] 神之雫 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 神八小妹不可怕 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 神八小妹不可怕 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 神八小妹不可怕 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19583,6 +19592,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 91	[ANi] 關於我轉生變成史萊姆這檔事 第四季 - 91 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 92	[ANi] 關於我轉生變成史萊姆這檔事 第四季 - 92 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 93	[ANi] 關於我轉生變成史萊姆這檔事 第四季 - 93 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+94	[ANi] 關於我轉生變成史萊姆這檔事 第四季 - 94 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - 電影 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 阿爾斯的巨獸 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 阿爾涅事件簿 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -45605,6 +45615,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 9	[Dynamis One] Kokoore - 09 (CR 1920x1080 AVC AAC MKV) [4F5F3CD7].mp4
 10	[Dynamis One] Kokoore - 10 (ABEMA 1920x1080 AVC AAC MKV) [01448B7C].mp4
 10	[Dynamis One] Kokoore - 10 (CR 1920x1080 AVC AAC MKV) [9798F3D5].mp4
+11	[Dynamis One] Kokoore - 11 (CR 1920x1080 AVC AAC MKV) [4A04306F].mp4
 1	[Dynamis One] Komekami! Girls - 01 (ABEMA 1920x1080 AVC AAC MP4) [A2DC2705].mp4
 2	[Dynamis One] Komekami! Girls - 02 (ABEMA 1920x1080 AVC AAC MP4) [C13BF446].mp4
 3	[Dynamis One] Komekami! Girls - 03 (ABEMA 1920x1080 AVC AAC MKV) [1929A8C4].mp4
@@ -45909,6 +45920,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 8	[Dynamis One] Mebius Dust - 08 (CR 1920x1080 AVC AAC MKV) [736D1FA3].mp4
 9	[Dynamis One] Mebius Dust - 09 (ABEMA 1920x1080 AVC AAC MKV) [6F17FA07].mp4
 9	[Dynamis One] Mebius Dust - 09 (CR 1920x1080 AVC AAC MKV) [DC39BC44].mp4
+10	[Dynamis One] Mebius Dust - 10 (ABEMA 1920x1080 AVC AAC MKV) [3D244BC4].mp4
 10	[Dynamis One] Mebius Dust - 10 (CR 1920x1080 AVC AAC MKV) [D9F64CCD].mp4
 10	[Dynamis One] Medalist - 10 (ABEMA 1920x1080 AVC AAC MP4) [AC8BBABD].mp4
 11	[Dynamis One] Medalist - 11 (ABEMA 1920x1080 AVC AAC MP4) [C37143A1].mp4
@@ -46410,6 +46422,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 8	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 08 (CR 1920x1080 AVC AAC MKV) [CBE30CC1].mp4
 9	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 09 (ABEMA 1920x1080 AVC AAC MKV) [D28DD8D2].mp4
 9	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 09 (CR 1920x1080 AVC AAC MKV) [22664A1F].mp4
+10	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 10 (ABEMA 1920x1080 AVC AAC MKV) [00C19052].mp4
 10	[Dynamis One] Saikyou Degarashi Ouji no Anyaku Teii Arasoi - 10 (CR 1920x1080 AVC AAC MKV) [45923822].mp4
 11	[Dynamis One] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 11 (ABEMA 1920x1080 AVC AAC MP4) [4AD3D71C].mp4
 12	[Dynamis One] Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? - 12 (ABEMA 1920x1080 AVC AAC MP4) [4493C388].mp4
@@ -46685,6 +46698,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 8	[Dynamis One] Tenbin - 08 (CR 1920x1080 AVC AAC MKV) [A7CD2939].mp4
 9	[Dynamis One] Tenbin - 09 (ABEMA 1920x1080 AVC AAC MKV) [B0A38A31].mp4
 9	[Dynamis One] Tenbin - 09 (CR 1920x1080 AVC AAC MKV) [4B7EB7BD].mp4
+10	[Dynamis One] Tenbin - 10 (ABEMA 1920x1080 AVC AAC MKV) [59D393F0].mp4
 10	[Dynamis One] Tenbin - 10 (CR 1920x1080 AVC AAC MKV) [A1CEF193].mp4
 1	[Dynamis One] Tensei Akujo no Kuro Rekishi - 01 (ABEMA 1920x1080 AVC AAC MP4) [6BF98839].mp4
 2	[Dynamis One] Tensei Akujo no Kuro Rekishi - 02 (ABEMA 1920x1080 AVC AAC MP4) [E1E8C57E].mp4
@@ -47107,6 +47121,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 20	[Dynamis One] Yoroi Shin Den Samurai Troopers Part 2 - 20 (CR 1920x1080 AVC AAC MKV) [F132EDF9].mp4
 21	[Dynamis One] Yoroi Shin Den Samurai Troopers Part 2 - 21 (ABEMA 1920x1080 AVC AAC MKV) [FC9F8D79].mp4
 21	[Dynamis One] Yoroi Shin Den Samurai Troopers Part 2 - 21 (CR 1920x1080 AVC AAC MKV) [3C722F74].mp4
+22	[Dynamis One] Yoroi Shin Den Samurai Troopers Part 2 - 22 (ABEMA 1920x1080 AVC AAC MKV) [671417E7].mp4
 22	[Dynamis One] Yoroi Shin Den Samurai Troopers Part 2 - 22 (CR 1920x1080 AVC AAC MKV) [041203C3].mp4
 2	[Dynamis One] Your Forma - 02 (ABEMA 1920x1080 AVC AAC MP4) [F91B12A6].mp4
 3	[Dynamis One] Your Forma - 03 (ABEMA 1920x1080 AVC AAC MP4) [8E9BA421].mp4
@@ -47758,6 +47773,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 8	[Dynamis One] 從後面來的神威先生 [年齡限制版] - 08 (Baha 1920x1080 AVC AAC MP4) [5B62AFC4].mp4
 9	[Dynamis One] 從後面來的神威先生 [年齡限制版] - 09 (Baha 1920x1080 AVC AAC MP4) [1AEB5F60].mp4
 10	[Dynamis One] 從後面來的神威先生 [年齡限制版] - 10 (Baha 1920x1080 AVC AAC MP4) [9DB70580].mp4
+11	[Dynamis One] 從後面來的神威先生 [年齡限制版] - 11 (Baha 1920x1080 AVC AAC MP4) [1A4FCDFA].mp4
 11	[Dynamis One] 快藏好！瑪琪娜同學!! - 11 (Baha 1920x1080 AVC AAC MP4) [CE9EFC87].mp4
 12	[Dynamis One] 快藏好！瑪琪娜同學!! - 12 (Baha 1920x1080 AVC AAC MP4) [106599D6].mp4
 1	[Dynamis One] 惡食千金與狂血公爵～那個魔物我就美美地享用了！～ - 01 (Baha 1920x1080 AVC AAC MP4) [05A83D0F].mp4
@@ -92628,6 +92644,7 @@ null	[LoliHouse] VOY@GER [WebRip 1080p HEVC-10bit AAC].mp4
 25	[LoliHouse] Watari-kun no xx ga Houkai Sunzen - 25 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
 26	[LoliHouse] Watari-kun no xx ga Houkai Sunzen - 26 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
 9	[LoliHouse] Yani Neko - 09 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
+10	[LoliHouse] Yani Neko - 10 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
 6	[LoliHouse] Zombieland Saga - 06 [WebRip 1080p HEVC-yuv420p10 AAC ASSx2].mp4
 7	[LoliHouse] Zombieland Saga - 07 [WebRip 1080p HEVC-yuv420p10 AAC ASSx2].mp4
 1	[LoliHouse] Übel Blatt - 01 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
@@ -96746,6 +96763,7 @@ null	[NEO·QSW]勇気爆発バーンブレイバーン 07WEBRIP AVC 1080P].mp4
 76	[NEO·QSW]新幹線変形ロボ シンカリオン 76 END[TEST][TVRIP AVC 720P].mp4
 null	[NEO·QSW]映画 ブラッククローバー 魔法帝の剣[WEBRIP HEVC 1080P].mp4
 9	[NEST] Chainsmoker Cat - 09 [NF WEB-DL 1080p AVC AAC][JPSC_JPTC].mp4
+10	[NEST] Chainsmoker Cat - 10 [NF WEB-DL 1080p AVC AAC][JPSC_JPTC].mp4
 1	[NEST] Dandelion S01E01 [NF WEB-DL 1080p AVC DDP5.1][JPSC].mp4
 2	[NEST] Dandelion S01E02 [NF WEB-DL 1080p AVC DDP5.1][JPSC].mp4
 3	[NEST] Dandelion S01E03 [NF WEB-DL 1080p AVC DDP5.1][JPSC].mp4
@@ -161842,6 +161860,7 @@ null	[planetarian ～ちいさなほしのゆめ～][planetarian~小小星球的
 10	[smzase] LV999 no Murabito - S01E10 - [CHT_JPN][WebRip H264 8bit 1080P].mp4
 11	[smzase] LV999 no Murabito - S01E11 - [CHT_JPN][WebRip H264 8bit 1080P].mp4
 12	[smzase] LV999 no Murabito - S01E12 - [CHT_JPN][WebRip H264 8bit 1080P].mp4
+12	[smzase] LV999 no Murabito - S01E12 - [CHT_JPN][WebRip H264 8bit 1080P][V2].mp4
 1	[sub][Tantei wa Mou, Shindeiru][01][1080p][CHT].mp4
 1	[sub][Tantei wa Mou, Shindeiru][01][1080p][HEVC][AAC][CHS&CHT].mp4
 null	[subbers] ANOTHER WORLD Record 2027 [BDRip 1080p HEVC AAC][zh-Hant].mp4
@@ -163773,6 +163792,7 @@ null	[夜桜字幕组][メリージェーン]いいなり！催眠彼女～隷�
 929	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[929][2026.08.22][AVC][1080P][GB_JP].mp4
 930	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[930][2026.08.29][AVC][1080P][GB_JP].mp4
 931	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[931][2026.09.05][AVC][1080P][GB_JP].mp4
+932	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[932][生日特别篇][2026.09.06][AVC][1080P][GB_JP].mp4
 null	[夜莺家族][哆啦A梦：大雄的绘世界物语(Doraemon the Movie Nobita's Art World Tales)][AVC][BDRIP][1080P][GB_JP][MP4].mp4
 null	[夜莺家族][樱桃小丸子(Chibi Maruko-chan)]动画化35周年新春一小时特别篇[2025.01.05][GB][1080P][MP4].mp4
 1438	[夜莺家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1438]樱家的庙会&小丸子很在意天气预报[2024.07.07][GB_JP][1080P][MP4].mp4
