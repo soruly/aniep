@@ -15140,6 +15140,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 8	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 憧憬成為魔法少女 [年齡限制版] - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 憧憬成為魔法少女 [年齡限制版] - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 13	[ANi] 戀上換裝娃娃 Season 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15721,6 +15722,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 8	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -45138,6 +45140,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 19	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 19 (ABEMA 1920x1080 AVC AAC MKV) [28D0E399].mp4
 20	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 20 (ABEMA 1920x1080 AVC AAC MKV) [5D1344CC].mp4
 21	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 21 (ABEMA 1920x1080 AVC AAC MKV) [ECE7D285].mp4
+22	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 22 (ABEMA 1920x1080 AVC AAC MKV) [3B01422F].mp4
 1	[Dynamis One] Honzuki no Gekokujou 4th Season - 01 (ABEMA 1920x1080 AVC AAC MP4) [C4798584].mp4
 1	[Dynamis One] Honzuki no Gekokujou 4th Season - 01 (CR 1920x1080 AVC AAC MKV) [101A091F].mp4
 2	[Dynamis One] Honzuki no Gekokujou 4th Season - 02 (ABEMA 1920x1080 AVC AAC MKV) [D37DF9C0].mp4
@@ -45586,6 +45589,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 9	[Dynamis One] Kimiai - 09 (CR 1920x1080 AVC AAC MKV) [A76E3040].mp4
 10	[Dynamis One] Kimiai - 10 (ABEMA 1920x1080 AVC AAC MKV) [74335220].mp4
 10	[Dynamis One] Kimiai - 10 (CR 1920x1080 AVC AAC MKV) [F620DC08].mp4
+11	[Dynamis One] Kimiai - 11 (ABEMA 1920x1080 AVC AAC MKV) [98578CA2].mp4
 1	[Dynamis One] Kingdom 6th Season - 01 (ABEMA 1920x1080 AVC AAC MP4) [9C5BBD94].mp4
 2	[Dynamis One] Kingdom 6th Season - 02 (ABEMA 1920x1080 AVC AAC MP4) [3E1D230B].mp4
 3	[Dynamis One] Kingdom 6th Season - 03 (ABEMA 1920x1080 AVC AAC MP4) [7BD5617B].mp4
@@ -46040,6 +46044,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 9	[Dynamis One] Mujikaku Seijo - 09 (CR 1920x1080 AVC AAC MKV) [56122228].mp4
 10	[Dynamis One] Mujikaku Seijo - 10 (ABEMA 1920x1080 AVC AAC MKV) [292C6C05].mp4
 10	[Dynamis One] Mujikaku Seijo - 10 (CR 1920x1080 AVC AAC MKV) [5B038DFF].mp4
+11	[Dynamis One] Mujikaku Seijo - 11 (ABEMA 1920x1080 AVC AAC MKV) [2D901289].mp4
 11	[Dynamis One] Mujikaku Seijo - 11 (CR 1920x1080 AVC AAC MKV) [16CF6D8B].mp4
 2	[Dynamis One] Mushoku Eiyuu - 02 (ABEMA 1920x1080 AVC AAC MP4) [C497848E].mp4
 3	[Dynamis One] Mushoku Eiyuu - 03 (ABEMA 1920x1080 AVC AAC MP4) [96BE1B18].mp4
@@ -46625,6 +46630,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 9	[Dynamis One] Sora wa Akai Kawa no Hotori - 09 (CR 1920x1080 AVC AAC MKV) [F49C8CC4].mp4
 10	[Dynamis One] Sora wa Akai Kawa no Hotori - 10 (ABEMA 1920x1080 AVC AAC MKV) [FE5B9BAD].mp4
 10	[Dynamis One] Sora wa Akai Kawa no Hotori - 10 (CR 1920x1080 AVC AAC MKV) [436EE748].mp4
+11	[Dynamis One] Sora wa Akai Kawa no Hotori - 11 (ABEMA 1920x1080 AVC AAC MKV) [395348D5].mp4
 29	[Dynamis One] Sousou no Frieren 2nd Season - 29 (ABEMA 1920x1080 AVC AAC MP4) [AF094C68].mp4
 30	[Dynamis One] Sousou no Frieren 2nd Season - 30 (ABEMA 1920x1080 AVC AAC MP4) [C51E7106].mp4
 31	[Dynamis One] Sousou no Frieren 2nd Season - 31 (ABEMA 1920x1080 AVC AAC MP4) [735DE55F].mp4
@@ -92410,6 +92416,7 @@ null	[Liuyun][Natsume Yuujinchou][OAD][BIG5][X264_AAC][720P].mp4
 8	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 08 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 9	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 09 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 10	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 10 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
+11	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 11 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 51	[LoliHouse] Bungou Stray Dogs - 51 [WebRip 1080p HEVC-10bit AAC].mp4
 52	[LoliHouse] Bungou Stray Dogs - 52 [WebRip 1080p HEVC-10bit AAC].mp4
 53	[LoliHouse] Bungou Stray Dogs - 53 [WebRip 1080p HEVC-10bit AAC].mp4
@@ -98425,6 +98432,7 @@ null	[Nekomoe kissaten][Cardcaptor sakura  Clear Card hen][OP][GB][720P].mp4
 5	[Nekomoe kissaten][Chitose-kun wa Ramune Bin no Naka][Extra Story][05][1080p][JPTC].mp4
 6	[Nekomoe kissaten][Chitose-kun wa Ramune Bin no Naka][Extra Story][06][1080p][JPTC].mp4
 7	[Nekomoe kissaten][Chitose-kun wa Ramune Bin no Naka][Extra Story][07][1080p][JPTC].mp4
+null	[Nekomoe kissaten][Chou Kaguya-hime! Extend ver.][Movie][BDRip][1080p][CHT].mp4
 null	[Nekomoe kissaten][Chou Kaguya-hime!][Movie][1080p][CHT][v2].mp4
 null	[Nekomoe kissaten][Chou Kaguya-hime!][ray MV][1080p][CHT].mp4
 null	[Nekomoe kissaten][Cider no You ni Kotoba ga Wakiagaru][Movie][1080p][JPTC].mp4
@@ -141916,7 +141924,9 @@ null	[Studio GreenTea] Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku [
 6	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [06][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 7	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [07][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
 7	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [07][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
+8	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [08][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
 8	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [08][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
+9	[Studio GreenTea] Koukaku Kidoutai - The Ghost in the Shell [09][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 13	[Studio GreenTea] Mato Seihei no Slave [13][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
 13	[Studio GreenTea] Mato Seihei no Slave [13][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 14	[Studio GreenTea] Mato Seihei no Slave [14][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
@@ -165501,6 +165511,7 @@ null	[榛名字幕组(仮)][erozuki]OVA ツンプリ.mp4
 7	[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 7 [1080p][简日内嵌].mp4
 8	[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 8 [1080p][简日内嵌].mp4
 9	[樱桃花字幕组]不擅长吸血的吸血鬼 Chanto Suenai Kyuuketsuki-chan - 9 [1080p][简日内嵌].mp4
+10	[樱桃花字幕组]尼古喵喵 Yanineko - 10 [1080p][简日内嵌].mp4
 9	[樱桃花字幕组]尼古喵喵 Yanineko - 9 [1080p][简日内嵌].mp4
 10	[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - 10 [1080p][简日内嵌].mp4
 11	[樱桃花字幕组]末世二轮之旅 Shuumatsu Touring  - 11 [1080p][简日内嵌].mp4
