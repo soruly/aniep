@@ -9103,6 +9103,8 @@ null	[20260906][M8smuD1OIy4][【アニメ】もしもホビー系のアニメだ
 76	[20260912][ITT-zhqKiw8][【公式】TVアニメ『コウペンちゃん』 第76話 「爆褒め」].mp4
 null	[20260913][wh8qtkhWvxY][【アニメ】怒られた時の反応集].mp4
 378	[20260914][e12FUvAcELQ][【公式】『ちいかわ』第378話「パラレルワールド④」※1週間限定配信＜9⧸22 (火)AM7_59まで＞].mp4
+76	[20260917][jHQgZ883kdw][【＃76】「ぷちきゅあ～Precure Fairies～」].mp4
+379	[20260917][rUwa0yDFozY][【公式】『ちいかわ』第379話「パラレルワールド⑤」※1週間限定配信＜9⧸25 (金)AM7_59まで＞].mp4
 2	[20605][あんてきぬすっ]OVAヤリチン家庭教師ネトリ報告 ＃2(No Watermark).mp4
 1	[20605][ばにぃうぉ～か～]OVA義姉はヤンママ授乳中 ＃1(No Watermark).mp4
 null	[20626][PoRO]姫様LOVEライフ！ 自虐オ姫・ラティ～好奇に微睡むおねだりボディ～(No Watermark).mp4
@@ -9774,6 +9776,13 @@ null	[260731][nur]so_low ～生意気ツン妹粗相～.cht.mp4
 null	[260731][ピンクパイナップル]デコ×デコ THE ANIMATION 第1巻「ワンショットアンダーパピー」.cht.mp4
 null	[260731][ピンクパイナップル]デコ×デコ THE ANIMATION 第2巻「イエスマイキティ」.cht.mp4
 2	[260731][魔人]ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～ 第2話 童貞さんを救え！ 筆おろしで人命救助.cht.mp4
+null	[260828][nur]サレ妻は奪われたい ～クールママが溺れるまで……～.cht.mp4
+null	[260828][nur]告白...... ～ギャル三昧～.cht.mp4
+1	[260828][ばにぃうぉ～か～]OVA 彼女催眠 ＃1.cht.mp4
+2	[260828][ばにぃうぉ～か～]OVA 彼女催眠 ＃2.cht.mp4
+null	[260828][ピンクパイナップル]ピュアホリック ～純潔乙女と婚姻カンケイ!？～THE ANIMATION 上巻.cht.mp4
+null	[260828][ピンクパイナップル]ピュアホリック ～純潔乙女と婚姻カンケイ!？～THE ANIMATION 下巻.cht.mp4
+2	[260828][魔人]霧中ノ塔 第2話 探空家とオートマトン、夜明けを迎える.cht.mp4
 1	[3D Kanojo Real Girl][01][GB_JP][HEVC][1080P].mp4
 2	[3D Kanojo Real Girl][02][GB_JP][HEVC][1080P].mp4
 3	[3D Kanojo Real Girl][03][GB_JP][HEVC][1080P].mp4
@@ -12623,6 +12632,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 令和妖神斑小姐 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 令和妖神斑小姐 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 令和妖神斑小姐 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 令和妖神斑小姐 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 休假的壞人先生 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 休假的壞人先生 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 休假的壞人先生 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -14552,6 +14562,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 9	[ANi] 少女怪獸焦糖戀心 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 少女怪獸焦糖戀心 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 少女怪獸焦糖戀心 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 少女怪獸焦糖戀心 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 尼古喵喵 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 尼古喵喵 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][V2].mp4
 2	[ANi] 尼古喵喵 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15915,6 +15926,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 9	[ANi] 文豪野犬 汪！第二季 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 文豪野犬 汪！第二季 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 文豪野犬 汪！第二季 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 文豪野犬 汪！第二季 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 文豪野犬 第四季（僅限港澳台地區） - 01 [1080P][Bilibili][WEB-DL][AAC AVC][CHT CHS].mp4
 2	[ANi] 文豪野犬 第四季（僅限港澳台地區） - 02 [1080P][Bilibili][WEB-DL][AAC AVC][CHT CHS].mp4
 3	[ANi] 文豪野犬 第四季（僅限港澳台地區） - 03 [1080P][Bilibili][WEB-DL][AAC AVC][CHT CHS].mp4
@@ -17066,6 +17078,7 @@ null	[ANi] 機動戰士鋼彈 水星的魔女 - 特別篇 [1080P][Baha][WEB-DL][
 46	[ANi] 無尾熊繪日記 - 46 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 47	[ANi] 無尾熊繪日記 - 47 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 48	[ANi] 無尾熊繪日記 - 48 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+49	[ANi] 無尾熊繪日記 - 49 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 無意間變成狗，被喜歡的女生撿回家。 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 無意間變成狗，被喜歡的女生撿回家。 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 無意間變成狗，被喜歡的女生撿回家。 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -18457,6 +18470,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 8	[ANi] 與妳相戀到生命盡頭 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 9	[ANi] 與妳相戀到生命盡頭 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 與妳相戀到生命盡頭 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+11	[ANi] 與妳相戀到生命盡頭 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 花樣少年少女 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 花樣少年少女 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 花樣少年少女 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19345,6 +19359,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 9	[ANi] 遭到流放的轉生重騎士憑藉遊戲知識大開無雙 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 遭到流放的轉生重騎士憑藉遊戲知識大開無雙 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 遭到流放的轉生重騎士憑藉遊戲知識大開無雙 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 遭到流放的轉生重騎士憑藉遊戲知識大開無雙 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 遲早是最強的鍊金術師？ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 遲早是最強的鍊金術師？ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 遲早是最強的鍊金術師？ - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -44865,6 +44880,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 47	[Dynamis One] Ganso! Bandori-chan - 47 (ABEMA 1920x1080 AVC AAC MKV) [63ED1201].mp4
 48	[Dynamis One] Ganso! Bandori-chan - 48 (ABEMA 1920x1080 AVC AAC MKV) [EA88B1EA].mp4
 49	[Dynamis One] Ganso! Bandori-chan - 49 (ABEMA 1920x1080 AVC AAC MKV) [3CDAEC4A].mp4
+50	[Dynamis One] Ganso! Bandori-chan - 50 (ABEMA 1920x1080 AVC AAC MKV) [F5CA8221].mp4
 1	[Dynamis One] Ghost Concert: Missing Songs - 01 (ABEMA 1920x1080 AVC AAC MP4) [32E8AC04].mp4
 2	[Dynamis One] Ghost Concert: Missing Songs - 02 (ABEMA 1920x1080 AVC AAC MKV) [BA4E7CEE].mp4
 3	[Dynamis One] Ghost Concert: Missing Songs - 03 (ABEMA 1920x1080 AVC AAC MKV) [629376DE].mp4
@@ -45671,6 +45687,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 9	[Dynamis One] Kokoore - 09 (CR 1920x1080 AVC AAC MKV) [4F5F3CD7].mp4
 10	[Dynamis One] Kokoore - 10 (ABEMA 1920x1080 AVC AAC MKV) [01448B7C].mp4
 10	[Dynamis One] Kokoore - 10 (CR 1920x1080 AVC AAC MKV) [9798F3D5].mp4
+11	[Dynamis One] Kokoore - 11 (ABEMA 1920x1080 AVC AAC MKV) [4A9508AC].mp4
 11	[Dynamis One] Kokoore - 11 (CR 1920x1080 AVC AAC MKV) [4A04306F].mp4
 1	[Dynamis One] Komekami! Girls - 01 (ABEMA 1920x1080 AVC AAC MP4) [A2DC2705].mp4
 2	[Dynamis One] Komekami! Girls - 02 (ABEMA 1920x1080 AVC AAC MP4) [C13BF446].mp4
@@ -45757,6 +45774,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 8	[Dynamis One] Let's Go Kaiki-gumi - 08 (ABEMA 1920x1080 AVC AAC MKV) [D40F6AD7].mp4
 9	[Dynamis One] Let's Go Kaiki-gumi - 09 (ABEMA 1920x1080 AVC AAC MKV) [610AC446].mp4
 10	[Dynamis One] Let's Go Kaiki-gumi - 10 (ABEMA 1920x1080 AVC AAC MKV) [2C3C8027].mp4
+11	[Dynamis One] Let's Go Kaiki-gumi - 11 (ABEMA 1920x1080 AVC AAC MKV) [3C2DAF35].mp4
 1	[Dynamis One] Let's Play: Quest-darake no My Life - 01 (ABEMA 1920x1080 AVC AAC MP4) [FF391252].mp4
 2	[Dynamis One] Let's Play: Quest-darake no My Life - 02 (ABEMA 1920x1080 AVC AAC MP4) [1067C4F9].mp4
 3	[Dynamis One] Let's Play: Quest-darake no My Life - 03 (ABEMA 1920x1080 AVC AAC MP4) [B6CD8FA6].mp4
@@ -46363,6 +46381,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 9	[Dynamis One] Reiwa no Dara-san (On-air version) - 09 (ABEMA 1920x1080 AVC AAC MKV) [F3BA1A6E].mp4
 10	[Dynamis One] Reiwa no Dara-san (On-air version) - 10 (ABEMA 1920x1080 AVC AAC MKV) [096846A1].mp4
 11	[Dynamis One] Reiwa no Dara-san (On-air version) - 11 (ABEMA 1920x1080 AVC AAC MKV) [399F2BCC].mp4
+12	[Dynamis One] Reiwa no Dara-san (On-air version) - 12 (ABEMA 1920x1080 AVC AAC MKV) [7EEEE06E].mp4
 67	[Dynamis One] Re：從零開始的異世界生活 第四季 - 67 (Baha 1920x1080 AVC AAC MP4) [C276AEDA].mp4
 68	[Dynamis One] Re：從零開始的異世界生活 第四季 - 68 (Baha 1920x1080 AVC AAC MP4) [C7E4EB81].mp4
 69	[Dynamis One] Re：從零開始的異世界生活 第四季 - 69 (Baha 1920x1080 AVC AAC MP4) [17206D36].mp4
@@ -47133,6 +47152,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 25	[Dynamis One] Witch Watch - 25 (ABEMA 1920x1080 AVC AAC MP4) [1B277D8E].mp4
 9	[Dynamis One] Yani Neko - 09 (ABEMA 1920x1080 AVC AAC MKV) [9F8D64A2].mp4
 10	[Dynamis One] Yani Neko - 10 (ABEMA 1920x1080 AVC AAC MKV) [6B10D65B].mp4
+11	[Dynamis One] Yani Neko - 11 (ABEMA 1920x1080 AVC AAC MKV) [93DE1564].mp4
 1	[Dynamis One] Yano-kun no Futsuu no Hibi - 01 (ABEMA 1920x1080 AVC AAC MP4) [3562D812].mp4
 2	[Dynamis One] Yano-kun no Futsuu no Hibi - 02 (ABEMA 1920x1080 AVC AAC MP4) [61D3C69A].mp4
 3	[Dynamis One] Yano-kun no Futsuu no Hibi - 03 (ABEMA 1920x1080 AVC AAC MP4) [C066B6D5].mp4
@@ -47381,6 +47401,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 9	[Dynamis One] 令和妖神斑小姐 - 09 (Baha 1920x1080 AVC AAC MP4) [540C5A9E].mp4
 10	[Dynamis One] 令和妖神斑小姐 - 10 (Baha 1920x1080 AVC AAC MP4) [FB0AC0DC].mp4
 11	[Dynamis One] 令和妖神斑小姐 - 11 (Baha 1920x1080 AVC AAC MP4) [AAA13A2A].mp4
+12	[Dynamis One] 令和妖神斑小姐 - 12 (Baha 1920x1080 AVC AAC MP4) [4DCF207D].mp4
 1	[Dynamis One] 你又被殺了呢，偵探大人 - 01 (Baha 1920x1080 AVC AAC MP4) [D2D419E9].mp4
 2	[Dynamis One] 你又被殺了呢，偵探大人 - 02 (Baha 1920x1080 AVC AAC MP4) [7D181F92].mp4
 3	[Dynamis One] 你又被殺了呢，偵探大人 - 03 (Baha 1920x1080 AVC AAC MP4) [DF7FB950].mp4
@@ -50736,6 +50757,7 @@ null	[Erai-raws] Lupin III vs Cats Eye - ONA [1080p AMZN WEB-DL AVC EAC3][MultiS
 8	[Erai-raws] Mebius Dust - 08 [1080p CR WEB-DL AVC AAC][MultiSub][8A89AAB1].mp4
 9	[Erai-raws] Mebius Dust - 09 [1080p CR WEB-DL AVC AAC][MultiSub][C557709C].mp4
 10	[Erai-raws] Mebius Dust - 10 [1080p CR WEB-DL AVC AAC][MultiSub][3A757D18].mp4
+11	[Erai-raws] Mebius Dust - 11 [1080p CR WEB-DL AVC AAC][MultiSub][A57AA93C].mp4
 1	[Erai-raws] Moonrise - 01 [1080p NF WEB-DL AVC EAC3][MultiSub][E6738D1C].mp4
 1	[Erai-raws] Moonrise - 01 [720p NF WEB-DL AVC EAC3][MultiSub][691C5F05].mp4
 2	[Erai-raws] Moonrise - 02 [1080p NF WEB-DL AVC EAC3][MultiSub][57EF7097].mp4
@@ -94907,6 +94929,7 @@ null	[Marukazoku][Character_Business_Journal][Chibi_Maruko-chan_Part_B][BIG5][10
 1542	[Marukazoku][Chibi Maruko-chan II][1542][2026.08.09][BIG5][1080P][MP4].mp4
 1543	[Marukazoku][Chibi Maruko-chan II][1543][2026.08.16][BIG5][1080P][MP4].mp4
 1544	[Marukazoku][Chibi Maruko-chan II][1544][2026.08.23][BIG5][1080P][MP4].mp4
+1547	[Marukazoku][Chibi Maruko-chan II][1547][2026.09.13][BIG5][1080P][MP4].mp4
 166	[Marukazoku][Chibi Maruko-chan II][166][1998.03.29][BIG5][1080P][MP4].mp4
 188	[Marukazoku][Chibi Maruko-chan II][188][1998.09.06][BIG5][1080P][MP4].mp4
 199	[Marukazoku][Chibi Maruko-chan II][199][1998.11.29][BIG5][1080P][MP4].mp4
@@ -127519,6 +127542,7 @@ null	[Pre-S&三明治压制部] 剧场版 前辈是男孩子 雨过天晴 Senpai
 47	[Prejudice-Studio] 元祖 小邦多利 GANSO BanG Dream Chan - 47 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
 48	[Prejudice-Studio] 元祖 小邦多利 GANSO BanG Dream Chan - 48 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
 49	[Prejudice-Studio] 元祖 小邦多利 GANSO BanG Dream Chan - 49 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
+50	[Prejudice-Studio] 元祖 小邦多利 GANSO BanG Dream Chan - 50 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
 1	[Prejudice-Studio] 光死去的夏天 Hikaru ga Shinda Natsu - 01 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
 2	[Prejudice-Studio] 光死去的夏天 Hikaru ga Shinda Natsu - 02 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
 3	[Prejudice-Studio] 光死去的夏天 Hikaru ga Shinda Natsu - 03 [Bilibili WEB-DL 1080P AVC 8bit AAC MP4][简体内嵌].mp4
@@ -130946,6 +130970,7 @@ null	[SC-OL][High School DxD][BDrip][NCOP][720P].mp4
 8	[SFBgm] Yani Neko - 08 [WebRip 1920x1080 AVC HE-AAC CHT].mp4
 9	[SFBgm] Yani Neko - 09 [WebRip 1920x1080 AVC HE-AAC CHT].mp4
 10	[SFBgm] Yani Neko - 10 [WebRip 1080p HE-AVC AAC CHT].mp4
+11	[SFBgm] Yani Neko - 11 [WebRip 1080p AVC AAC CHT].mp4
 1	[SFSub&64bitsub][29-sai Dokushin Chuuken Boukensha no Nichijou][01][1920x1080][AVC_AAC][CHT].mp4
 2	[SFSub&64bitsub][29-sai Dokushin Chuuken Boukensha no Nichijou][02][1920x1080][AVC_AAC][CHT].mp4
 3	[SFSub&64bitsub][29-sai Dokushin Chuuken Boukensha no Nichijou][03][1920x1080][AVC_AAC][CHT].mp4
@@ -148994,6 +149019,7 @@ null	[UHA-WINGS][Fragtime][BDRIP 1920x1080 x264 AAC][CHT].mp4
 47	[UHA-WINGS][GANSO BanG Dream Chan][47][1080p HEVC][CHT].mp4
 48	[UHA-WINGS][GANSO BanG Dream Chan][48][1080p HEVC][CHT].mp4
 49	[UHA-WINGS][GANSO BanG Dream Chan][49][1080p HEVC][CHT].mp4
+50	[UHA-WINGS][GANSO BanG Dream Chan][50][1080p HEVC][CHT].mp4
 1	[UHA-WINGS][Gakuen Babysitters][01][1080p][BIG5].mp4
 1	[UHA-WINGS][Gakuen Babysitters][01v2][1080p][GB].mp4
 2	[UHA-WINGS][Gakuen Babysitters][02][1080p][BIG5].mp4
@@ -158505,6 +158531,7 @@ null	[hshare.net].Shining.May.[RAW].mp4
 47	[hyakuhuyu&LoliHouse] GANSO BanG Dream Chan - 47 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 48	[hyakuhuyu&LoliHouse] GANSO BanG Dream Chan - 48 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 49	[hyakuhuyu&LoliHouse] GANSO BanG Dream Chan - 49 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
+50	[hyakuhuyu&LoliHouse] GANSO BanG Dream Chan - 50 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 1	[hyakuhuyu][GANSO BanG Dream Chan][01][1080p AVC AAC][CHT].mp4
 2	[hyakuhuyu][GANSO BanG Dream Chan][02][1080p AVC AAC][CHT].mp4
 3	[hyakuhuyu][GANSO BanG Dream Chan][03][1080p AVC AAC][CHT].mp4
@@ -158555,6 +158582,7 @@ null	[hshare.net].Shining.May.[RAW].mp4
 47	[hyakuhuyu][GANSO BanG Dream Chan][47][1080p AVC AAC][CHT].mp4
 48	[hyakuhuyu][GANSO BanG Dream Chan][48][1080p AVC AAC][CHT].mp4
 49	[hyakuhuyu][GANSO BanG Dream Chan][49][1080p AVC AAC][CHT].mp4
+50	[hyakuhuyu][GANSO BanG Dream Chan][50][1080p AVC AAC][CHT].mp4
 12	[hyakuhuyu][Oshi no Ko][12][1080p AVC AAC][CHT].mp4
 13	[hyakuhuyu][Oshi no Ko][13][1080p AVC AAC][CHT].mp4
 14	[hyakuhuyu][Oshi no Ko][14][1080p AVC AAC][CHT].mp4
