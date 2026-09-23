@@ -15084,6 +15084,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 9	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 感謝對戰。～大小姐才不玩格鬥遊戲～ - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 憧憬成為魔法少女 [年齡限制版] - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 憧憬成為魔法少女 [年齡限制版] - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 13	[ANi] 戀上換裝娃娃 Season 2 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15670,6 +15671,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 9	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 10	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+12	[ANi] 拯救替身千金的是冷酷無情冰之王子的愛 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -44340,6 +44342,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 10	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka - 10 (ABEMA 1920x1080 AVC AAC MP4) [28D87237].mp4
 11	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka - 11 (ABEMA 1920x1080 AVC AAC MP4) [F8DA588C].mp4
 12	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka - 12 (ABEMA 1920x1080 AVC AAC MP4) [6C2C09C9].mp4
+23	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 23 (ABEMA 1920x1080 AVC AAC MKV) [2B17A6DB].mp4
 21	[Dynamis One] Ishura 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4) [3503353F].mp4
 22	[Dynamis One] Ishura 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4) [6AB85C58].mp4
 23	[Dynamis One] Ishura 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4) [A68CAADF].mp4
@@ -44714,6 +44717,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 9	[Dynamis One] Mujikaku Seijo - 09 (CR 1920x1080 AVC AAC MKV) [56122228].mp4
 10	[Dynamis One] Mujikaku Seijo - 10 (CR 1920x1080 AVC AAC MKV) [5B038DFF].mp4
 11	[Dynamis One] Mujikaku Seijo - 11 (CR 1920x1080 AVC AAC MKV) [16CF6D8B].mp4
+12	[Dynamis One] Mujikaku Seijo - 12 (ABEMA 1920x1080 AVC AAC MKV) [92C11079].mp4
 12	[Dynamis One] Mujikaku Seijo - 12 (CR 1920x1080 AVC AAC MKV) [92341405].mp4
 115,118	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - 115-118_s1_p125 (ABEMA 1920x1080 AVC AAC MP4) [FCE90634].mp4
 null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1920x1080 AVC AAC MP4) [A5F6BC15].mp4
@@ -44804,6 +44808,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 22	[Dynamis One] Onegai AiPri - 22 (ABEMA 1920x1080 AVC AAC MKV) [0BFF36E3].mp4
 23	[Dynamis One] Onegai AiPri - 23 (ABEMA 1920x1080 AVC AAC MKV) [335AB5D6].mp4
 24	[Dynamis One] Onegai AiPri - 24 (ABEMA 1920x1080 AVC AAC MKV) [4D575855].mp4
+25	[Dynamis One] Onegai AiPri - 25 (ABEMA 1920x1080 AVC AAC MKV) [B6F80122].mp4
 1	[Dynamis One] Osomatsu-san 4th Season - 01 (ABEMA 1920x1080 AVC AAC MP4) [D7AA5754].mp4
 2	[Dynamis One] Osomatsu-san 4th Season - 02 (ABEMA 1920x1080 AVC AAC MP4) [4DBB0754].mp4
 3	[Dynamis One] Osomatsu-san 4th Season - 03 (ABEMA 1920x1080 AVC AAC MP4) [20558523].mp4
@@ -44862,6 +44867,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 9	[Dynamis One] Sora wa Akai Kawa no Hotori - 09 (ABEMA 1920x1080 AVC AAC MKV) [FA70D905].mp4
 10	[Dynamis One] Sora wa Akai Kawa no Hotori - 10 (ABEMA 1920x1080 AVC AAC MKV) [FE5B9BAD].mp4
 11	[Dynamis One] Sora wa Akai Kawa no Hotori - 11 (ABEMA 1920x1080 AVC AAC MKV) [395348D5].mp4
+12	[Dynamis One] Sora wa Akai Kawa no Hotori - 12 (ABEMA 1920x1080 AVC AAC MKV) [1CCBFCF5].mp4
 1	[Dynamis One] TRIGUN STARGAZE - 01 (Baha 1920x1080 AVC AAC MP4) [3E8610B4].mp4
 2	[Dynamis One] TRIGUN STARGAZE - 02 (Baha 1920x1080 AVC AAC MP4) [A41DFC82].mp4
 3	[Dynamis One] TRIGUN STARGAZE - 03 (Baha 1920x1080 AVC AAC MP4) [CFAF56B8].mp4
@@ -88501,6 +88507,7 @@ null	[Liuyun][Natsume Yuujinchou][OAD][BIG5][X264_AAC][720P].mp4
 9	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 09 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 10	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 10 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 11	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 11 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
+12	[LoliHouse] Buchigire Reijou wa Houfuku wo Chikaimashita - 12 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 51	[LoliHouse] Bungou Stray Dogs - 51 [WebRip 1080p HEVC-10bit AAC].mp4
 52	[LoliHouse] Bungou Stray Dogs - 52 [WebRip 1080p HEVC-10bit AAC].mp4
 53	[LoliHouse] Bungou Stray Dogs - 53 [WebRip 1080p HEVC-10bit AAC].mp4
@@ -88774,6 +88781,7 @@ null	[LoliHouse] Sol Levante [MasterRip 2160p HEVC-10bit HDR FLACx2].mp4
 9	[LoliHouse] Tenbin - 09 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 10	[LoliHouse] Tenbin - 10 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 11	[LoliHouse] Tenbin - 11 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
+12	[LoliHouse] Tenbin - 12 [WebRip 1080p HEVC-10bit AAC ASSx2].mp4
 1	[LoliHouse] Tensei shitara Slime Datta Ken - Coleus no Yume - 01 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
 2	[LoliHouse] Tensei shitara Slime Datta Ken - Coleus no Yume - 02 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
 3	[LoliHouse] Tensei shitara Slime Datta Ken - Coleus no Yume - 03 [WebRip 1080p HEVC-10bit AAC SRTx2].mp4
@@ -88995,6 +89003,7 @@ null	[MCE][Blue Archive][beautiful day dreamer][SP][BIG5][1080p][x264 AAC].mp4
 11	[MCE][Chibi Godzilla no Gyakushuu][11][BIG5][1080p][x264 AAC].mp4
 12	[MCE][Chibi Godzilla no Gyakushuu][12][BIG5][1080p][x264 AAC].mp4
 13	[MCE][Chibi Godzilla no Gyakushuu][13][BIG5][1080p][x264 AAC].mp4
+null	[MCE][EVANGELION：30+][SP][BIG5][1080P][x264 AAC].mp4
 null	[MCE][Eiga Daisuki Pompo-san][Movie][BIG5][1080P][x264 AAC].mp4
 null	[MCE][Eiga Daisuki Pompo-san][Movie][BIG5][720P][x264 AAC].mp4
 null	[MCE][Ganbatte Ikimasshoi][Movie][BIG5][1080P][V2][x264 AAC].mp4
@@ -136797,6 +136806,8 @@ null	[Skymoon-Raws][成為星星的少女][Trapezium][Baha][WEB-DL][1080p][AVC A
 7	[Skymoon] 魔法光源股份有限公司 第二季 [07].mp4
 8	[Skymoon] 魔法光源股份有限公司 第二季 [08].mp4
 9	[Skymoon] 魔法光源股份有限公司 第二季 [09].mp4
+10	[Skymoon] 魔法光源股份有限公司 第二季 [10].mp4
+11	[Skymoon] 魔法光源股份有限公司 第二季 [11].mp4
 4	[Skymoon] 魔法光源股份有限公司第二季 [04v2].mp4
 1	[Skymoon][86 - Eighty Six][01][BIG5][1080p].mp4
 2	[Skymoon][86 - Eighty Six][02][BIG5][1080p].mp4
@@ -137687,6 +137698,7 @@ null	[Studio GreenTea] Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku [
 5	[Studio GreenTea] Super no Ura de Yani Suu Futari [05][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 6	[Studio GreenTea] Super no Ura de Yani Suu Futari [06][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 9	[Studio GreenTea] Super no Ura de Yani Suu Futari [09][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
+11	[Studio GreenTea] Super no Ura de Yani Suu Futari [11][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 1	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [01][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
 1	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [01][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 2	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [02][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
