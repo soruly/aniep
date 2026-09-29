@@ -9040,6 +9040,7 @@ null	[20260920][4foCLbBypYw][【アニメ】反則だらけの大運動会].mp4
 78	[20260926][qZkqq8Wq2Ss][【公式】TVアニメ『コウペンちゃん』 第78話 「はなまる承認部」].mp4
 85	[20260926][wPTSv2mFvJE][アニメ『おでかけ子ザメ』第85話「きつねのおもいで-前編-」].mp4
 null	[20260927][DMRYW68cB0M][【アニメ】激やばメイドさんの特別な接客].mp4
+382	[20260928][cftFkd-kHgU][【公式】『ちいかわ』第382話「パラレルワールド⑧／クラッキング」※1週間限定配信＜10⧸6 (火)AM7_59まで＞].mp4
 2	[20605][あんてきぬすっ]OVAヤリチン家庭教師ネトリ報告 ＃2(No Watermark).mp4
 1	[20605][ばにぃうぉ～か～]OVA義姉はヤンママ授乳中 ＃1(No Watermark).mp4
 null	[20626][PoRO]姫様LOVEライフ！ 自虐オ姫・ラティ～好奇に微睡むおねだりボディ～(No Watermark).mp4
@@ -11624,6 +11625,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 23	[ANi] MAO 摩緒 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 24	[ANi] MAO 摩緒 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 25	[ANi] MAO 摩緒 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+26	[ANi] MAO 摩緒 - 26 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] MOMENTARY LILY 剎那之花 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] MOMENTARY LILY 剎那之花 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] MOMENTARY LILY 剎那之花 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -44663,6 +44665,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 23	[Dynamis One] Liar Game - 23 (ABEMA 1920x1080 AVC AAC MKV) [9E0D1E5F].mp4
 24	[Dynamis One] Liar Game - 24 (ABEMA 1920x1080 AVC AAC MKV) [A73A6442].mp4
 25	[Dynamis One] Liar Game - 25 (ABEMA 1920x1080 AVC AAC MKV) [4649CC72].mp4
+26	[Dynamis One] Liar Game - 26 (ABEMA 1920x1080 AVC AAC MKV) [9A5C83EA].mp4
 1	[Dynamis One] Lv999 no Murabito - 01 (ABEMA 1920x1080 AVC AAC MKV) [49D9284F].mp4
 2	[Dynamis One] Lv999 no Murabito - 02 (ABEMA 1920x1080 AVC AAC MKV) [89EA0FDF].mp4
 3	[Dynamis One] Lv999 no Murabito - 03 (ABEMA 1920x1080 AVC AAC MKV) [55916160].mp4
@@ -133803,7 +133806,6 @@ null	[Sakurato] Pretty Derby Beginning of a New Era [AVC-8bit 1080p AAC][CHT].mp
 2	[Sakurato] Sousou no Frieren S2 [02][HEVC-10bit 1080p AAC][CHS&CHT].mp4
 3	[Sakurato] Sousou no Frieren S2 [03][AVC-8bit 1080P AAC][CHT].mp4
 3	[Sakurato] Sousou no Frieren S2 [03][HEVC-10bit 1080p AAC][CHS&CHT].mp4
-4	[Sakurato] Sousou no Frieren S2 [04][AVC-8bit 1080P AAC][CHT].mp4
 4	[Sakurato] Sousou no Frieren S2 [04][AVC-8bit 1080p AAC][CHT].mp4
 4	[Sakurato] Sousou no Frieren S2 [04][HEVC-10bit 1080p AAC][CHS&CHT].mp4
 5	[Sakurato] Sousou no Frieren S2 [05][AVC-8bit 1080p AAC][CHT].mp4
@@ -144836,6 +144838,7 @@ null	[UHA-WINGS][Hinako Note][PV][BIG5].mp4
 11	[UHA-WINGS][Jibaku Shounen Hanako-kun][11][x264 1080p][CHT].mp4
 12	[UHA-WINGS][Jibaku Shounen Hanako-kun][12][x264 1080p][CHT].mp4
 1	[UHA-WINGS][JoJo's Bizarre Adventure Steel Ball Run][01][1080p HEVC][CHT_JP].mp4
+2	[UHA-WINGS][JoJo's Bizarre Adventure Steel Ball Run][02][1080p HEVC][CHT_JP].mp4
 1	[UHA-WINGS][Kaguya-sama wa Kokurasetai S2][01][x264 1080p][CHT].mp4
 2	[UHA-WINGS][Kaguya-sama wa Kokurasetai S2][02][x264 1080p][CHT].mp4
 3	[UHA-WINGS][Kaguya-sama wa Kokurasetai S2][03][x264 1080p][CHT].mp4
@@ -159217,6 +159220,7 @@ null	[夜桜字幕组][メリージェーン]いいなり！催眠彼女～隷�
 931	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[931][2026.09.05][AVC][1080P][GB_JP].mp4
 932	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[932][生日特别篇][2026.09.06][AVC][1080P][GB_JP].mp4
 933	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[933][2026.09.12][AVC][1080P][GB_JP].mp4
+934	[夜莺家族&YYQ字幕组]New Doraemon 哆啦A梦新番[934][2026.09.19][AVC][1080P][GB_JP].mp4
 null	[夜莺家族][哆啦A梦：大雄的绘世界物语(Doraemon the Movie Nobita's Art World Tales)][AVC][BDRIP][1080P][GB_JP][MP4].mp4
 null	[夜莺家族][樱桃小丸子(Chibi Maruko-chan)]动画化35周年新春一小时特别篇[2025.01.05][GB][1080P][MP4].mp4
 1438	[夜莺家族][樱桃小丸子第二期(Chibi Maruko-chan II)][1438]樱家的庙会&小丸子很在意天气预报[2024.07.07][GB_JP][1080P][MP4].mp4
