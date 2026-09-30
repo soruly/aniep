@@ -44370,6 +44370,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 11	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka - 11 (ABEMA 1920x1080 AVC AAC MP4) [F8DA588C].mp4
 12	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka - 12 (ABEMA 1920x1080 AVC AAC MP4) [6C2C09C9].mp4
 23	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 23 (ABEMA 1920x1080 AVC AAC MKV) [2B17A6DB].mp4
+24	[Dynamis One] Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2 - 24 (ABEMA 1920x1080 AVC AAC MKV) [1E7AB7D1].mp4
 21	[Dynamis One] Ishura 2nd Season - 21 (ABEMA 1920x1080 AVC AAC MP4) [3503353F].mp4
 22	[Dynamis One] Ishura 2nd Season - 22 (ABEMA 1920x1080 AVC AAC MP4) [6AB85C58].mp4
 23	[Dynamis One] Ishura 2nd Season - 23 (ABEMA 1920x1080 AVC AAC MP4) [A68CAADF].mp4
@@ -44831,6 +44832,7 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 23	[Dynamis One] Onegai AiPri - 23 (ABEMA 1920x1080 AVC AAC MKV) [335AB5D6].mp4
 24	[Dynamis One] Onegai AiPri - 24 (ABEMA 1920x1080 AVC AAC MKV) [4D575855].mp4
 25	[Dynamis One] Onegai AiPri - 25 (ABEMA 1920x1080 AVC AAC MKV) [B6F80122].mp4
+26	[Dynamis One] Onegai AiPri - 26 (ABEMA 1920x1080 AVC AAC MKV) [62E28063].mp4
 1	[Dynamis One] Osomatsu-san 4th Season - 01 (ABEMA 1920x1080 AVC AAC MP4) [D7AA5754].mp4
 2	[Dynamis One] Osomatsu-san 4th Season - 02 (ABEMA 1920x1080 AVC AAC MP4) [4DBB0754].mp4
 3	[Dynamis One] Osomatsu-san 4th Season - 03 (ABEMA 1920x1080 AVC AAC MP4) [20558523].mp4
@@ -44892,6 +44894,8 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 10	[Dynamis One] Sora wa Akai Kawa no Hotori - 10 (ABEMA 1920x1080 AVC AAC MKV) [FE5B9BAD].mp4
 11	[Dynamis One] Sora wa Akai Kawa no Hotori - 11 (ABEMA 1920x1080 AVC AAC MKV) [395348D5].mp4
 12	[Dynamis One] Sora wa Akai Kawa no Hotori - 12 (ABEMA 1920x1080 AVC AAC MKV) [1CCBFCF5].mp4
+13	[Dynamis One] Sora wa Akai Kawa no Hotori - 13 (ABEMA 1920x1080 AVC AAC MKV) [2FC08556].mp4
+13	[Dynamis One] Sora wa Akai Kawa no Hotori - 13 (CR 1920x1080 AVC AAC MKV) [7AEA6AA3].mp4
 1	[Dynamis One] TRIGUN STARGAZE - 01 (Baha 1920x1080 AVC AAC MP4) [3E8610B4].mp4
 2	[Dynamis One] TRIGUN STARGAZE - 02 (Baha 1920x1080 AVC AAC MP4) [A41DFC82].mp4
 3	[Dynamis One] TRIGUN STARGAZE - 03 (Baha 1920x1080 AVC AAC MP4) [CFAF56B8].mp4
@@ -97649,6 +97653,7 @@ null	[Nekomoe kissaten][Komada Jouryuujo e Youkoso][Movie][BDRip][1080p][JPTC].m
 23	[Nekomoe kissaten][LIAR GAME][23][1080p][JPTC].mp4
 24	[Nekomoe kissaten][LIAR GAME][24][1080p][JPTC].mp4
 25	[Nekomoe kissaten][LIAR GAME][25][1080p][JPTC].mp4
+26	[Nekomoe kissaten][LIAR GAME][26][1080p][JPTC].mp4
 1	[Nekomoe kissaten][LISTENERS][01][1080p][JPTC].mp4
 1	[Nekomoe kissaten][LISTENERS][01][720p][JPTC].mp4
 2	[Nekomoe kissaten][LISTENERS][02][1080p][JPTC].mp4
@@ -137790,6 +137795,7 @@ null	[Studio GreenTea] Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku [
 6	[Studio GreenTea] Super no Ura de Yani Suu Futari [06][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 9	[Studio GreenTea] Super no Ura de Yani Suu Futari [09][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 11	[Studio GreenTea] Super no Ura de Yani Suu Futari [11][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
+12	[Studio GreenTea] Super no Ura de Yani Suu Futari [12][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 1	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [01][WebRip][HEVC-10bit 1080p AAC ASSx2].mp4
 1	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [01][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
 2	[Studio GreenTea] This Monster Wants To Eat Me - Watashi wo Tabetai, Hitodenashi [02][WebRip][HEVC-10bit 1080p AAC][JPTC].mp4
@@ -164289,6 +164295,9 @@ null	【BDSP】Fate stay night -UBW- sunny day [BIG5][1080P].mp4
 30	【FSD粉羽社】名侦探光之美少女[30][日蚀·影].mp4
 31	【FSD粉羽社】名侦探光之美少女[31][v2][名侦探奥秘天使].mp4
 32	【FSD粉羽社】名侦探光之美少女[32][我回来了Cure·侦探事务所].mp4
+33	【FSD粉羽社】名侦探光之美少女[33][名侦探之路 始于足下].mp4
+34	【FSD粉羽社】名侦探光之美少女[34][v2][瑠琉花与完美的满月].mp4
+35	【FSD粉羽社】名侦探光之美少女[35][恋爱的名侦探].mp4
 1	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[01v2][1080P][简体中字].mp4
 2	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[02][1080P][简体中字].mp4
 3	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[03][1080P][简体中字].mp4
