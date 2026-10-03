@@ -15371,6 +15371,7 @@ null	[ANi] 在地下城尋求邂逅是否搞錯了什麼 第四季 - 特別篇 [
 11	[ANi] 我家的弟弟們真是讓您費心了 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 12	[ANi] 我家的弟弟們真是讓您費心了 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 12.5	[ANi] 我家的弟弟們真是讓您費心了 - 12.5 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+13	[ANi] 我家的弟弟們真是讓您費心了 - 13 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 我家的英雄 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 我家的英雄 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 我家的英雄 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15731,6 +15732,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 23	[ANi] 拉拉熊 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 24	[ANi] 拉拉熊 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 25	[ANi] 拉拉熊 - 25 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+26	[ANi] 拉拉熊 - 26 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 拉麵赤貓 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 拉麵赤貓 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 拉麵赤貓 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -15882,6 +15884,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 21	[ANi] 擅長逃跑的殿下 第二季 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 22	[ANi] 擅長逃跑的殿下 第二季 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 23	[ANi] 擅長逃跑的殿下 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+24	[ANi] 擅長逃跑的殿下 第二季 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 放學後失眠的你 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 放學後失眠的你 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 放學後失眠的你 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -16461,6 +16464,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 22	[ANi] 桃源暗鬼 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 23	[ANi] 桃源暗鬼 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 24	[ANi] 桃源暗鬼 - 24 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+1	[ANi] 桃源暗鬼：日光·華嚴瀑布篇 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 null	[ANi] 桃源暗鬼：日光·華嚴瀑布篇 - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 桃源暗鬼：日光·華嚴瀑布篇 [特別篇] - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 森林裡的熊先生，冬眠中。 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -20537,6 +20541,7 @@ null	[ANi] 魯邦三世 不死身的血族 - 電影 [1080P][Baha][WEB-DL][AAC AV
 10	[ANi] 黑化吧！聖女大人 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 11	[ANi] 黑化吧！聖女大人 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 12	[ANi] 黑化吧！聖女大人 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+1	[ANi] 黑化吧！聖女大人 第二季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 黑執事 寄宿學校篇 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 黑執事 寄宿學校篇 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 黑執事 寄宿學校篇 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
