@@ -6580,6 +6580,7 @@ null	The Island.2018.WEB-DL.1080P.X264.AAC.Mandarin.CHS-ENG-52movieba.mp4
 2	The.Prince.of.Tennis.II.S05E02.1080p.BSITE.WEB-DL.JPN.AAC2.0.H.264-ToonsHub.mp4
 2	The.Prince.of.Tennis.II.S05E02.The.Selection.Match.Begins.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mp4
 3	The.Prince.of.Tennis.II.S05E03.Men.Who.Never.Give.Up.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mp4
+4	The.Prince.of.Tennis.II.S05E04.The.Moon.and.the.Sun.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs-ToonsHub.mp4
 1	The.Seven.Knights.of.the.Marronnier.Kingdom.S01E01.The.Seven.Knights.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mp4
 2	The.Seven.Knights.of.the.Marronnier.Kingdom.S01E02.Spring.by.the.Lake.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mp4
 3	The.Seven.Knights.of.the.Marronnier.Kingdom.S01E03.Recklessness.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mp4
@@ -12667,6 +12668,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 世界最強的魔女，就此開始 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 世界最強的魔女，就此開始 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 世界最強的魔女，就此開始 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+5	[ANi] 世界最強的魔女，就此開始 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 世界盡頭的聖騎士 鐵鏽之山的君王 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 世界盡頭的聖騎士 鐵鏽之山的君王 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 世界盡頭的聖騎士 鐵鏽之山的君王 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -12809,6 +12811,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 佐佐木與文鳥小嗶 Season 2 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 佐佐木與文鳥小嗶 Season 2 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 佐佐木與文鳥小嗶 Season 2 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+5	[ANi] 佐佐木與文鳥小嗶 Season 2 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 你又被殺了呢，偵探大人 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 你又被殺了呢，偵探大人 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 你又被殺了呢，偵探大人 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -12871,6 +12874,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 偵探已經，死了。Season 2 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 偵探已經，死了。Season 2 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 偵探已經，死了。Season 2 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+5	[ANi] 偵探已經，死了。Season 2 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 偶像大師 灰姑娘女孩 U149 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 偶像大師 灰姑娘女孩 U149 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 偶像大師 灰姑娘女孩 U149 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -16197,6 +16201,7 @@ null	[ANi] 戰國妖狐 千魔混沌編​ - 特別篇 [1080P][Baha][WEB-DL][AAC
 3	[ANi] 新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+6	[ANi] 新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 新網球王子 U-17 世界盃 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 新網球王子 U-17 世界盃 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 新網球王子 U-17 世界盃 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -17566,6 +17571,7 @@ null	[ANi] 無職轉生～到了異世界就拿出真本事 第二季 - 特別�
 2	[ANi] 獸王武神丹帝拜恩 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 獸王武神丹帝拜恩 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 獸王武神丹帝拜恩 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+5	[ANi] 獸王武神丹帝拜恩 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 王牌酒保 Glass of God - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 王牌酒保 Glass of God - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 王牌酒保 Glass of God - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19465,6 +19471,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 3	[ANi] 轉生就是劍 第二季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 轉生就是劍 第二季 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 轉生就是劍 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+6	[ANi] 轉生就是劍 第二季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 轉生後的大聖女，極力隱瞞聖女的身分 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 轉生後的大聖女，極力隱瞞聖女的身分 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 轉生後的大聖女，極力隱瞞聖女的身分 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -19763,6 +19770,7 @@ null	[ANi] 總之就是很可愛～制服～（僅限港澳台地區） - OVA [1
 14	[ANi] 重生者的魔法一定要特別 第二季 - 14 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 15	[ANi] 重生者的魔法一定要特別 第二季 - 15 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 16	[ANi] 重生者的魔法一定要特別 第二季 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+17	[ANi] 重生者的魔法一定要特別 第二季 - 17 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 野原廣志 午餐的流派 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 野原廣志 午餐的流派 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 野原廣志 午餐的流派 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -20655,6 +20663,7 @@ null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - �
 2	[ANi] 魔法騎士雷阿斯 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 魔法騎士雷阿斯 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 魔法騎士雷阿斯 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+5	[ANi] 魔法騎士雷阿斯 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 魔王 2099 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 魔王 2099 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 魔王 2099 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -44506,6 +44515,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 2	[Dynamis One] Aoki Denshou Welsh & Shedar - 02 (ABEMA 1920x1080 AVC AAC MKV) [39BF2447].mp4
 3	[Dynamis One] Aoki Denshou Welsh & Shedar - 03 (ABEMA 1920x1080 AVC AAC MKV) [544A1657].mp4
 4	[Dynamis One] Aoki Denshou Welsh & Shedar - 04 (ABEMA 1920x1080 AVC AAC MKV) [954BFDE6].mp4
+5	[Dynamis One] Aoki Denshou Welsh & Shedar - 05 (ABEMA 1920x1080 AVC AAC MKV) [65AED685].mp4
 1	[Dynamis One] Apocalypse Hotel - 01 (ABEMA 1920x1080 AVC AAC MP4) [02D532D3].mp4
 2	[Dynamis One] Apocalypse Hotel - 02 (ABEMA 1920x1080 AVC AAC MP4) [04E90760].mp4
 3	[Dynamis One] Apocalypse Hotel - 03 (ABEMA 1920x1080 AVC AAC MP4) [881059AA].mp4
@@ -44628,6 +44638,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 2	[Dynamis One] Dark Summoner to Dekiteiru - 02 (ABEMA 1920x1080 AVC AAC MKV) [544C74F9].mp4
 3	[Dynamis One] Dark Summoner to Dekiteiru - 03 (ABEMA 1920x1080 AVC AAC MKV) [77C40207].mp4
 4	[Dynamis One] Dark Summoner to Dekiteiru - 04 (ABEMA 1920x1080 AVC AAC MKV) [761195EE].mp4
+5	[Dynamis One] Dark Summoner to Dekiteiru - 05 (ABEMA 1920x1080 AVC AAC MKV) [9D2BB238].mp4
 1	[Dynamis One] Dekichau made Kon - 01 (ABEMA 1920x1080 AVC AAC MP4) [2D1EE260].mp4
 2	[Dynamis One] Dekichau made Kon - 02 (ABEMA 1920x1080 AVC AAC MP4) [B3A47AE3].mp4
 3	[Dynamis One] Dekichau made Kon - 03 (ABEMA 1920x1080 AVC AAC MP4) [1BEC0F2E].mp4
@@ -44980,10 +44991,13 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 4	[Dynamis One] Juuou Mujin Dandivine - 04 (ABEMA 1280x720 AVC AAC MKV) [77E53A3B].mp4
 4	[Dynamis One] Juuou Mujin Dandivine - 04 (Baha 1920x1080 AVC AAC MP4) [E9CD025F].mp4
 4	[Dynamis One] Juuou Mujin Dandivine - 04 (CR 1920x1080 AVC AAC MKV) [A62C6DF5].mp4
+5	[Dynamis One] Juuou Mujin Dandivine - 05 (Baha 1920x1080 AVC AAC MP4) [8C6F62F9].mp4
+5	[Dynamis One] Juuou Mujin Dandivine - 05 (CR 1920x1080 AVC AAC MKV) [5C094E74].mp4
 1	[Dynamis One] Kanojo no Tomodachi - 01 (ABEMA 1920x1080 AVC AAC MKV) [5A3A5170].mp4
 2	[Dynamis One] Kanojo no Tomodachi - 02 (ABEMA 1920x1080 AVC AAC MKV) [5DD9D9E4].mp4
 3	[Dynamis One] Kanojo no Tomodachi - 03 (ABEMA 1920x1080 AVC AAC MKV) [09A8924E].mp4
 4	[Dynamis One] Kanojo no Tomodachi - 04 (ABEMA 1920x1080 AVC AAC MKV) [A5EC979D].mp4
+5	[Dynamis One] Kanojo no Tomodachi - 05 (ABEMA 1920x1080 AVC AAC MKV) [12D558D0].mp4
 1	[Dynamis One] Kanojo, Okarishimasu 4th Season - 01 (ABEMA 1920x1080 AVC AAC MP4) [48431173].mp4
 2	[Dynamis One] Kanojo, Okarishimasu 4th Season - 02 (ABEMA 1920x1080 AVC AAC MP4) [9473580F].mp4
 3	[Dynamis One] Kanojo, Okarishimasu 4th Season - 03 (ABEMA 1920x1080 AVC AAC MP4) [67F7E15F].mp4
@@ -45513,6 +45527,8 @@ null	[Dynamis One] NEET Kunoichi to Nazeka Dousei Hajimemashita - Ex.02 (ABEMA 1
 4	[Dynamis One] Tenipuri: U-17 Kesshou Member Ketteisen - 04 (CR 1920x1080 AVC AAC MKV) [EB6E096C].mp4
 5	[Dynamis One] Tenipuri: U-17 Kesshou Member Ketteisen - 05 (ABEMA 1920x1080 AVC AAC MKV) [C43909DB].mp4
 5	[Dynamis One] Tenipuri: U-17 Kesshou Member Ketteisen - 05 (Baha 1920x1080 AVC AAC MP4) [C1F496B5].mp4
+6	[Dynamis One] Tenipuri: U-17 Kesshou Member Ketteisen - 06 (Baha 1920x1080 AVC AAC MP4) [701E1610].mp4
+6	[Dynamis One] Tenipuri: U-17 Kesshou Member Ketteisen - 06 (CR 1920x1080 AVC AAC MKV) [0D8725B9].mp4
 1	[Dynamis One] Tetsunabe no Jan! - 01 (CR 1920x1080 AVC AAC MKV) [C5D18807].mp4
 2	[Dynamis One] Tetsunabe no Jan! - 02 (CR 1920x1080 AVC AAC MKV) [50C14DFF].mp4
 3	[Dynamis One] Tetsunabe no Jan! - 03 (CR 1920x1080 AVC AAC MKV) [AFA1EB86].mp4
@@ -133039,6 +133055,7 @@ null	[Sakurato] Kaguya-sama wa Kokurasetai [OVA][DVDRip][AVC-8bit 720p AAC][CHT]
 16	[Sakurato] Koori no Jouheki [16][AVC-8bit 1080P AAC][CHT].mp4
 17	[Sakurato] Koori no Jouheki [17][AVC-8bit 1080P AAC][CHT].mp4
 18	[Sakurato] Koori no Jouheki [18][AVC-8bit 1080P AAC][CHT].mp4
+19	[Sakurato] Koori no Jouheki [19][AVC-8bit 1080P AAC][CHT].mp4
 2	[Sakurato] Kuma Kuma Kuma Bear Punch! [02][AVC-8bit 1080p AAC][CHT].mp4
 2	[Sakurato] Kuma Kuma Kuma Bear Punch! [02][HEVC-10bit 1080p AAC][CHS&CHT].mp4
 3	[Sakurato] Kuma Kuma Kuma Bear Punch! [03][AVC-8bit 1080p AAC][CHT].mp4
@@ -157620,6 +157637,7 @@ null	[orion origin] Kin no Kuni Mizu no Kuni [WebRip] [1080p] [H265 AAC] [CHS].m
 2	[orion origin] Tempal：Item no Chikara [02] [1080p] [H265 AAC] [CHT_JPN].mp4
 3	[orion origin] Tempal：Item no Chikara [03] [1080p] [H265 AAC] [CHT_JPN].mp4
 4	[orion origin] Tempal：Item no Chikara [04] [1080p] [H265 AAC] [CHT_JPN].mp4
+5	[orion origin] Tempal：Item no Chikara [05] [1080p] [H265 AAC] [CHT_JPN].mp4
 1	[orion origin] Tengoku Daimakyou [01] [1080p] [H265 AAC] [CHS＆JPN].mp4
 2	[orion origin] Tengoku Daimakyou [02] [1080p] [H265 AAC] [CHS＆JPN].mp4
 3	[orion origin] Tengoku Daimakyou [03] [1080p] [H265 AAC] [CHS＆JPN].mp4
