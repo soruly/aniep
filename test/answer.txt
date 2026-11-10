@@ -5375,6 +5375,7 @@ null	Oushitsu Kyoushi Haine The Movie (2019)[Web-DL 1080p AVC AAC][GB][bilibili]
 2	PSYREN.S01E02.Tavoo.1080p.CR.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mp4
 3	PSYREN.S01E03.PSI.1080p.CR.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mp4
 4	PSYREN.S01E04.Recall.1080p.CR.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mp4
+5	PSYREN.S01E05.Those.Gathered.1080p.CR.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mp4
 1	PV01.mp4
 2	PV02.mp4
 3	PV03.mp4
@@ -9229,6 +9230,8 @@ null	[20261101][PtC8ThEL_-k][【アニメ】10位しか発表しないランキ�
 91	[20261107][VCGFGRwzoWQ][アニメ『おでかけ子ザメ』第91話「くるま」].mp4
 83	[20261107][rDZO-vVr03E][【公式】TVアニメ『コウペンちゃん』第83話「アデリーさんと美味しい秋刀魚」].mp4
 null	[20261108][FYzxO5awzsQ][【アニメ】ギャルになる呪い].mp4
+null	[20261109][V6wpsx2E9QM][MyGO!!!!!メンバーの日常「コレクション」①].mp4
+78	[20261109][nCJv9QAAYQ4][【公式】『ちいかわ』第78話「カメラ買っちゃった」※1週間限定配信＜11⧸17 (火)AM7_59まで＞].mp4
 2	[20605][あんてきぬすっ]OVAヤリチン家庭教師ネトリ報告 ＃2(No Watermark).mp4
 1	[20605][ばにぃうぉ～か～]OVA義姉はヤンママ授乳中 ＃1(No Watermark).mp4
 null	[20626][PoRO]姫様LOVEライフ！ 自虐オ姫・ラティ～好奇に微睡むおねだりボディ～(No Watermark).mp4
@@ -12854,6 +12857,7 @@ null	[ANi] D4DJ Double Mix - 特別篇 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 你好，身為魔女的我，被心上人委託製作迷情藥 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 你好，身為魔女的我，被心上人委託製作迷情藥 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 你好，身為魔女的我，被心上人委託製作迷情藥 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+6	[ANi] 你好，身為魔女的我，被心上人委託製作迷情藥 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 使人誤解的工房主～關於原英雄隊伍的雜役人員，實際上除了戰鬥能力外全是SSS的故事～ - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 使人誤解的工房主～關於原英雄隊伍的雜役人員，實際上除了戰鬥能力外全是SSS的故事～ - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 使人誤解的工房主～關於原英雄隊伍的雜役人員，實際上除了戰鬥能力外全是SSS的故事～ - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -20285,6 +20289,7 @@ null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - �
 3	[ANi] 青之蘆葦 第二季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 青之蘆葦 第二季 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 青之蘆葦 第二季 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+6	[ANi] 青之蘆葦 第二季 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 青之驅魔師 島根啟明結社篇 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 青之驅魔師 島根啟明結社篇 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 青之驅魔師 島根啟明結社篇 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -20682,6 +20687,7 @@ null	[ANi] 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇 - �
 3	[ANi] 魔法少女育成計畫 restart - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 4	[ANi] 魔法少女育成計畫 restart - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 5	[ANi] 魔法少女育成計畫 restart - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
+6	[ANi] 魔法少女育成計畫 restart - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 1	[ANi] 魔法科高中的劣等生 第三季 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 2	[ANi] 魔法科高中的劣等生 第三季 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
 3	[ANi] 魔法科高中的劣等生 第三季 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4
@@ -44557,6 +44563,7 @@ null	[Dymy][Yowamushi Pedal Re Ride][BIG5][1280X720].mp4
 4	[Dynamis One] Ao Ashi Season 2 - 04 (Baha 1920x1080 AVC AAC MP4) [6203CEFF].mp4
 5	[Dynamis One] Ao Ashi Season 2 - 05 (ABEMA 1920x1080 AVC AAC MKV) [A31681F0].mp4
 5	[Dynamis One] Ao Ashi Season 2 - 05 (Baha 1920x1080 AVC AAC MP4) [AC044001].mp4
+6	[Dynamis One] Ao Ashi Season 2 - 06 (Baha 1920x1080 AVC AAC MP4) [68F69CEB].mp4
 23	[Dynamis One] Ao no Hako - 23 (ABEMA 1920x1080 AVC AAC MP4) [183164D9].mp4
 24	[Dynamis One] Ao no Hako - 24 (ABEMA 1920x1080 AVC AAC MP4) [D8FCF329].mp4
 25	[Dynamis One] Ao no Hako - 25 (ABEMA 1920x1080 AVC AAC MP4) [1ECC6418].mp4
@@ -47714,6 +47721,7 @@ null	[Erai-raws] Lupin III vs Cats Eye - ONA [1080p AMZN WEB-DL AVC EAC3][MultiS
 2	[Erai-raws] Psyren - 02 [1080p CR WEB-DL AVC AAC][MultiSub][C7A31E7B].mp4
 3	[Erai-raws] Psyren - 03 [1080p CR WEB-DL AVC AAC][MultiSub][2FE2617C].mp4
 4	[Erai-raws] Psyren - 04 [1080p CR WEB-DL AVC AAC][MultiSub][B7775C65].mp4
+5	[Erai-raws] Psyren - 05 [1080p CR WEB-DL AVC AAC][MultiSub][08928B75].mp4
 1	[Erai-raws] Rilakkuma to Kaoru-san - 01 [720p HEVC][Multiple Subtitle].mp4
 2	[Erai-raws] Rilakkuma to Kaoru-san - 02 [720p HEVC][Multiple Subtitle].mp4
 3	[Erai-raws] Rilakkuma to Kaoru-san - 03 [720p HEVC][Multiple Subtitle].mp4
@@ -98291,6 +98299,7 @@ null	[Nekomoe kissaten][Komada Jouryuujo e Youkoso][Movie][BDRip][1080p][JPTC].m
 51	[Nekomoe kissaten][Kusuriya no Hitorigoto][51][1080p][JPTC].mp4
 52	[Nekomoe kissaten][Kusuriya no Hitorigoto][52][1080p][JPTC].mp4
 53	[Nekomoe kissaten][Kusuriya no Hitorigoto][53][1080p][JPTC].mp4
+54	[Nekomoe kissaten][Kusuriya no Hitorigoto][54][1080p][JPTC].mp4
 1	[Nekomoe kissaten][Kyokou Suiri][01][1080p][CHT].mp4
 1	[Nekomoe kissaten][Kyokou Suiri][01][720p][CHT].mp4
 2	[Nekomoe kissaten][Kyokou Suiri][02][1080p][CHT].mp4
@@ -100466,7 +100475,7 @@ null	[Nekomoe kissaten][Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai][M
 3	[Nekomoe kissaten][Seitokai ni mo Ana wa Aru!][03][1080p][JPTC].mp4
 4	[Nekomoe kissaten][Seitokai ni mo Ana wa Aru!][04][1080p][JPTC].mp4
 5	[Nekomoe kissaten][Seitokai ni mo Ana wa Aru!][05][1080p][JPTC].mp4
-6	[Nekomoe kissaten][Seitokai ni mo Ana wa Aru!][06][1080p][JPSC].mp4
+6	[Nekomoe kissaten][Seitokai ni mo Ana wa Aru!][06][1080p][JPTC].mp4
 1	[Nekomoe kissaten][Seiyuu Radio no Uraomote][01][1080p][JPTC].mp4
 2	[Nekomoe kissaten][Seiyuu Radio no Uraomote][02][1080p][JPTC].mp4
 3	[Nekomoe kissaten][Seiyuu Radio no Uraomote][03][1080p][JPTC].mp4
@@ -136559,6 +136568,7 @@ null	[Skymoon-Raws] Date A Bullet Movie - zenpen Dead or Bullet [BiliBili][WEB-D
 2	[Skymoon-Raws] Dragon Ball Super：Beerus - 02 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
 3	[Skymoon-Raws] Dragon Ball Super：Beerus - 03 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
 4	[Skymoon-Raws] Dragon Ball Super：Beerus - 04 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
+5	[Skymoon-Raws] Dragon Ball Super：Beerus - 05 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
 1	[Skymoon-Raws] Dragonball DaiMa - 01 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
 2	[Skymoon-Raws] Dragonball DaiMa - 02 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
 3	[Skymoon-Raws] Dragonball DaiMa - 03 [ViuTV][WEB-DL][CHT][SRT][1080p][AVC AAC].mp4
@@ -165245,6 +165255,7 @@ null	【BDSP】Fate stay night -UBW- sunny day [BIG5][1080P].mp4
 37	【FSD粉羽社】名侦探光之美少女[37][乌索诺瓦尔与尼基的下午茶时间].mp4
 38	【FSD粉羽社】名侦探光之美少女[38][来爱的答案].mp4
 39	【FSD粉羽社】名侦探光之美少女[39][小魔女的欢闹万圣节♪].mp4
+40	【FSD粉羽社】名侦探光之美少女[40][瑠琉花的答案].mp4
 1	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[01v2][1080P][简体中字].mp4
 2	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[02][1080P][简体中字].mp4
 3	【FSD粉羽社】魔法使光之美少女！！～MIRAI DAYS～[03][1080P][简体中字].mp4
